@@ -12,7 +12,7 @@ title                    : "Behzad Farzanegan"
 title_separator          : "-"
 name                     : &name "Behzad Farzanegan"
 description              : &description "personal description"
-url                      : "https://behzadfarzanegan.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://behzadfarzanegan.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
