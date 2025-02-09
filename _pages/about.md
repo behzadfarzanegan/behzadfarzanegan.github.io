@@ -7,17 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D candidate at [Missouri University of Science and Technology (MST)](https://www.mst.edu/), under the guidance of Dr. Sarangapani. My research focuses on reinforcement learning-based optimal tracking control for nonlinear discrete-time systems, with applications to robotics and autonomous vehicles. A significant aspect of my work is lifelong learning-based optimal controllers, where the controller continuously learns from past experiences to improve future performance. I also emphasize safety-aware and explainable AI, ensuring the reliability and interpretability of autonomous decision-making systems. Beyond my research, I explore machine learning applications in cyber-physical systems, including vision-based robotic manipulation and localization, motion planning, perception, SLAM, and mapping for real-world autonomous navigation.
+I am currently a Ph.D candidate at [Missouri University of Science and Technology (MST)](https://www.mst.edu/)  in the Department of Electrical & Computer Engineering, under the guidance of Dr. Sarangapani.
+------
+My research focuses on reinforcement learning-based optimal tracking control for nonlinear discrete-time systems, with applications to robotics and autonomous vehicles. A significant aspect of my work is lifelong learning-based optimal controllers, where the controller continuously learns from past experiences to improve future performance. I also emphasize safety-aware and explainable AI, ensuring the reliability and interpretability of autonomous decision-making systems. Beyond my research, I explore machine learning applications in cyber-physical systems, including vision-based robotic manipulation and localization, motion planning, perception, SLAM, and mapping for real-world autonomous navigation.
 
 Research Interests
 ======
-1. Reinforcement Learning: Exploring dynamic strategies and algorithms.
-1. Optimal Control: Developing methods to achieve the best performance under given constraints. 
-1. Artificial Intelligence Applications: Implementing AI in nonlinear systems for enhanced functionality.
-1. Machine Learning in Control Systems: Integrating ML techniques to improve control in nonlinear environments
-1. Robotics and Autonomous Vehicles: Advancing automation in robotics and vehicle systems. 
-1. Safety and Security in Nonlinear Systems: Ensuring robustness and resilience in critical system operations.
-1. Energy Systems: Innovating within microgrids and smart grids to optimize energy distribution and consumption.
+- **Reinforcement Learning & Optimal Control**: Developing safe and explainable **deep reinforcement learning-based controllers** for **nonlinear, discrete-time** systems with real-world applications in **robotics and autonomous systems**.
+- **Navigation & Motion Planning**: Designing **adaptive and robust** path optimization strategies for **autonomous vehicles and mobile robots**, enabling efficient navigation in **off-road terrains (forests, deserts)** and **human-centered environments (sidewalks, crowded buildings)**.
+- **Perception & Sensor Fusion**: Implementing **multi-sensor fusion techniques** (LiDAR, GPS, IMU) to enhance **state estimation, localization, and tracking** in dynamic environments.
+- **Artificial Intelligence in Autonomous Systems**: Leveraging **deep learning and AI-driven models** to enhance decision-making and control in **robotics, self-driving cars, and unmanned systems**.
+- **Machine Learning for Control & Simulation**: Integrating **deep learning-based controllers** with traditional **model-based control** (MPC, PID, fuzzy logic) for improved robustness in **nonlinear and uncertain systems**.
+- **Robotics & Autonomous Vehicles**: Advancing **motion control, planning, and reinforcement learning** for **humanoid robots, mobile manipulators, and self-driving platforms**.
+- **Safety & Security in Nonlinear Systems**: Ensuring **safe reinforcement learning-based control** with **performance guarantees** in critical autonomous operations.
+- **Energy Systems & Smart Grids**: Optimizing **energy distribution and consumption** in **microgrid and smart grid** infrastructures.
+
+
+
 
 Site-wide configuration
 ------
