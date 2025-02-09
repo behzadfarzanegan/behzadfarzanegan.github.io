@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Behzad Farzanegan"
+title                    : "Behzad's Homepage"
 title_separator          : "-"
 name                     : &name "Behzad Farzanegan"
 description              : &description "personal description"
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/behzad-farzanegan-2a523053/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
