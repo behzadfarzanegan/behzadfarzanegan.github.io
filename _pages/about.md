@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+------
 I am currently a Ph.D candidate at [Missouri University of Science and Technology (MST)](https://www.mst.edu/)  in the Department of Electrical & Computer Engineering, under the guidance of Dr. Sarangapani.
 ------
 My research focuses on reinforcement learning-based optimal tracking control for nonlinear discrete-time systems, with applications to robotics and autonomous vehicles. A significant aspect of my work is lifelong learning-based optimal controllers, where the controller continuously learns from past experiences to improve future performance. I also emphasize safety-aware and explainable AI, ensuring the reliability and interpretability of autonomous decision-making systems. Beyond my research, I explore machine learning applications in cyber-physical systems, including vision-based robotic manipulation and localization, motion planning, perception, SLAM, and mapping for real-world autonomous navigation.
