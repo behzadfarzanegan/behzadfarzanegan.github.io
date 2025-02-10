@@ -206,4 +206,4 @@ The **Quanser QBot 3** is a **ROS2-compatible** mobile robot used for **navigati
 ---
 
 ## **Future Research Directions**
-I am eager to continue advancing research in **intelligent control systems, ground, areial, and marine autonomy, and robotics**, exploring **new partnerships and innovations** in this dynamic field.
+I am eager to continue advancing research in **intelligent control systems, ground, aerial, and marine autonomy, and robotics**, exploring **new partnerships and innovations** in this dynamic field.
