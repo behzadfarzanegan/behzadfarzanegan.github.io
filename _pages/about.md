@@ -64,6 +64,48 @@ I am eager to continue advancing research in **intelligent control systems, mari
 
 ---
 
+## **Robotic Platforms & Experimentation**
+
+### **1. Quanser QBot 3 – Differential Drive Robot**
+<img src="images/Qbot.jpg" alt="Quanser QBot 3" width="300px" align="right">
+
+The **Quanser QBot 3** is a **ROS2-compatible** mobile robot designed for research in **autonomous navigation, SLAM, and reinforcement learning**. Equipped with **LiDAR, depth cameras, and IMU sensors**, it enables real-time **perception and decision-making** in **indoor and structured environments**.
+
+**Applications:**
+- **Simultaneous Localization and Mapping (SLAM)**
+- **Reinforcement Learning for Navigation**
+- **Autonomous Path Planning and Obstacle Avoidance**
+- **Multi-Robot Coordination and Swarm Robotics**
+
+---
+
+### **2. Quanser QDrone – Aerial Robotics Platform**
+<img src="images/uav.webp" alt="Quanser QDrone" width="300px" align="right">
+
+The **Quanser QDrone** is a **quadrotor UAV** used for research in **aerial autonomy, perception, and control systems**. It features an **onboard NVIDIA Jetson**, depth cameras, and a **modular flight control system**, making it ideal for **indoor and outdoor navigation experiments**.
+
+**Applications:**
+- **Autonomous Aerial Navigation**
+- **Vision-Based Obstacle Avoidance**
+- **Multi-Agent UAV Collaboration**
+- **Deep Reinforcement Learning for Flight Control**
+
+---
+
+### **3. Quanser QCar – Autonomous Ground Vehicle**
+<img src="images/Qcar.jpg" alt="Quanser QCar" width="300px" align="right">
+
+The **Quanser QCar** is a **1/10th scale autonomous vehicle platform** designed for research in **self-driving technologies, sensor fusion, and AI-based control**. It includes a **360-degree LiDAR, depth cameras, GPS, and IMU sensors**, making it an excellent platform for **testing real-world autonomy algorithms**.
+
+**Applications:**
+- **Self-Driving Car Research (Lane Following, Path Planning)**
+- **Sensor Fusion (LiDAR, GPS, Camera Integration)**
+- **Autonomous Vehicle Perception and Decision Making**
+- **End-to-End Deep Learning for Driving Policies**
+
+---
+---
+
 ## **Technical Skills**
 
 - **MATLAB**: Developed and implemented **adaptive control and estimation algorithms**, with results published in **American Control Conferences and Journals**.
