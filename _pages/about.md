@@ -36,14 +36,18 @@ Beyond my core research, I explore **machine learning applications in cyber-phys
 
 I earned my **M.Sc. in Electrical Engineering** from **Amirkabir University of Technology**, specializing in **distributed optimal control for power systems**. My thesis focused on **developing advanced control strategies for power networks**, optimizing system performance through **mathematical modeling and distributed control techniques**.
 
-During my time at **Amirkabir University**, I worked on several projects in **Cyber-Physical Systems and Energy Optimization**, designing **robust controllers for smart grids and shipboard power systems (SPS)**. My research explored **multi-agent control architectures**, ensuring **scalability and efficiency** in **marine energy management**.
-
+During my time at **Amirkabir University**, I worked on several projects in ** NN-based optimal control and state estimation of Surface Effect Ships **, designing **robust controllers for smart grids and shipboard power systems (SPS)**. 
 My passion for **advanced control and autonomy** led me to pursue further studies at **Missouri University of Science and Technology, USA**, where my research focuses on **reinforcement learning-based optimal control** for **nonlinear, multitasking systems**. My work involves developing **safe, explainable AI-driven controllers** for:
 - **Autonomous Marine Vessels**
 - **Unmanned Ground Vehicles (UGVs) & Unmanned Aerial Vehicles (UAVs)**
 - **Robotic Platforms**
 
 These controllers ensure **adaptive and efficient decision-making** in **uncertain environments**.
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="images/Qcar.jpg" alt="Quanser QCar" width="300px">
+    <img src="images/uav.png" alt="Quanser QDrone" width="300px">
+    <img src="images/Qbot.jpg" alt="Quanser QBot 3" width="300px">
+</div>
 
 ---
 
