@@ -29,7 +29,6 @@ Beyond my core research, I explore **machine learning applications in cyber-phys
 - **Machine Learning for Control & Simulation**: Integrating **deep learning-based controllers** with **traditional model-based control** (MPC, PID, fuzzy logic) for improved robustness in **nonlinear and uncertain systems**.
 - **Robotics & Autonomous Vehicles**: Advancing **motion control, planning, and reinforcement learning** for **humanoid robots, mobile manipulators, and self-driving platforms**.
 - **Safety & Security in Nonlinear Systems**: Developing **safe reinforcement learning-based controllers** with **performance guarantees** in critical autonomous operations.
-- **Energy Systems & Smart Grids**: Optimizing **energy distribution and consumption** in **microgrid and smart grid** infrastructures.
 
 ---
 
@@ -46,64 +45,50 @@ My passion for **advanced control and autonomy** led me to pursue further studie
 
 These controllers ensure **adaptive and efficient decision-making** in **uncertain environments**.
 
-I have hands-on experience with:
-- **Marine Robotics & Motion Planning**: Developing **path planning, obstacle avoidance, and reinforcement learning-based control** for **Autonomous Surface Vessels (ASVs) and Autonomous Underwater Vehicles (AUVs)**.
-- **Power Systems & Smart Grids**: Designing **AI-driven optimization methods** for **distributed energy management in shipboard power systems (SPS), microgrids, and maritime energy networks**.
-- **Perception & Sensor Fusion**: Integrating **LiDAR, GPS, IMU, and SLAM-based navigation** for enhanced **localization, state estimation, and tracking** in **marine and terrestrial robotic systems**.
-- **Hardware-in-the-Loop (HIL) Simulation**: Conducting **real-time validation** using **Quanser platforms (QCars, QBots, QDrones)** for **autonomous navigation, state estimation, and sensor fusion**.
-- **Cyber-Physical Systems & Safety**: Implementing **safety-aware deep reinforcement learning controllers** for **autonomous marine and aerospace applications**.
-
-My research has been supported by esteemed organizations such as:
-- **Army Research Office (ARO)**
-- **Office of Naval Research (ONR)**
-- **Intelligent Systems Centre (ISC)**  
-
-I have contributed to **numerous international conferences and journals**, with **publications covering a broad range of topics**, including **Cyber-Physical Systems, Nonlinear Control, Reinforcement Learning, Marine Autonomy, and AI-driven Robotics**.
-
-I am eager to continue advancing research in **intelligent control systems, marine autonomy, and robotics**, exploring **new partnerships and innovations** in this dynamic field.
-
 ---
 
 ## **Robotic Platforms & Experimentation**
 
 ### **1. Quanser QBot 3 – Differential Drive Robot**
-<img src="images/Qbot.jpg" alt="Quanser QBot 3" width="300px" align="right">
+<p align="right">
+  <img src="images/Qbot.jpg" alt="Quanser QBot 3" width="300px">
+</p>
 
-The **Quanser QBot 3** is a **ROS2-compatible** mobile robot designed for research in **autonomous navigation, SLAM, and reinforcement learning**. Equipped with **LiDAR, depth cameras, and IMU sensors**, it enables real-time **perception and decision-making** in **indoor and structured environments**.
+The **Quanser QBot 3** is a **ROS2-compatible** mobile robot used for **navigation and mapping**. It is equipped with **LiDAR, cameras, and IMU sensors** to facilitate **SLAM-based research and real-time control experiments**.
 
 **Applications:**
-- **Simultaneous Localization and Mapping (SLAM)**
-- **Reinforcement Learning for Navigation**
-- **Autonomous Path Planning and Obstacle Avoidance**
-- **Multi-Robot Coordination and Swarm Robotics**
+- **SLAM (Simultaneous Localization and Mapping)**
+- **Autonomous Navigation in Indoor Environments**
+- **Reinforcement Learning for Mobile Robots**
 
 ---
 
 ### **2. Quanser QDrone – Aerial Robotics Platform**
-<img src="images/uav.webp" alt="Quanser QDrone" width="300px" align="right">
+<p align="right">
+  <img src="images/uav.png" alt="Quanser QDrone" width="300px">
+</p>
 
-The **Quanser QDrone** is a **quadrotor UAV** used for research in **aerial autonomy, perception, and control systems**. It features an **onboard NVIDIA Jetson**, depth cameras, and a **modular flight control system**, making it ideal for **indoor and outdoor navigation experiments**.
+The **Quanser QDrone** is a **ROS2-compatible** quadrotor UAV used for **autonomous flight and perception research**. It integrates onboard **depth cameras and IMU sensors** for **vision-based navigation and mapping**.
 
 **Applications:**
-- **Autonomous Aerial Navigation**
+- **SLAM and Navigation for Aerial Robotics**
 - **Vision-Based Obstacle Avoidance**
-- **Multi-Agent UAV Collaboration**
-- **Deep Reinforcement Learning for Flight Control**
+- **Reinforcement Learning for UAV Control**
 
 ---
 
 ### **3. Quanser QCar – Autonomous Ground Vehicle**
-<img src="images/Qcar.jpg" alt="Quanser QCar" width="300px" align="right">
+<p align="right">
+  <img src="images/Qcar.jpg" alt="Quanser QCar" width="300px">
+</p>
 
-The **Quanser QCar** is a **1/10th scale autonomous vehicle platform** designed for research in **self-driving technologies, sensor fusion, and AI-based control**. It includes a **360-degree LiDAR, depth cameras, GPS, and IMU sensors**, making it an excellent platform for **testing real-world autonomy algorithms**.
+The **Quanser QCar** is a **ROS2-compatible** autonomous vehicle platform used for **self-driving research**. It features **LiDAR, cameras, GPS, and IMU sensors**, making it suitable for **motion planning and perception experiments**.
 
 **Applications:**
-- **Self-Driving Car Research (Lane Following, Path Planning)**
-- **Sensor Fusion (LiDAR, GPS, Camera Integration)**
-- **Autonomous Vehicle Perception and Decision Making**
-- **End-to-End Deep Learning for Driving Policies**
+- **SLAM and Localization for Autonomous Vehicles**
+- **Perception and Sensor Fusion (LiDAR, GPS, Camera)**
+- **Reinforcement Learning for Driving Control**
 
----
 ---
 
 ## **Technical Skills**
@@ -116,3 +101,8 @@ The **Quanser QCar** is a **1/10th scale autonomous vehicle platform** designed 
 - **SLAM (Simultaneous Localization and Mapping)**: Implemented SLAM techniques for **navigation and mapping of differential drive and wheeled robots** in **ROS2 environments**.
 - **Gazebo**: Designed and simulated **complex robotic environments** to support **navigation, perception, and autonomous behavior** in **ROS2**.
 - **Computer Vision**: Applied **OpenCV, YOLO, and deep learning-based object detection** for **autonomous navigation, perception, and environment understanding** in **robotics and autonomous vehicles**.
+
+---
+
+## **Future Research Directions**
+I am eager to continue advancing research in **intelligent control systems, ground, areial, and marine autonomy, and robotics**, exploring **new partnerships and innovations** in this dynamic field.
