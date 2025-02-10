@@ -102,6 +102,102 @@ The **Quanser QBot 3** is a **ROS2-compatible** mobile robot used for **navigati
 - **SLAM (Simultaneous Localization and Mapping)**: Implemented SLAM techniques for **navigation and mapping of differential drive and wheeled robots** in **ROS2 environments**.
 - **Gazebo**: Designed and simulated **complex robotic environments** to support **navigation, perception, and autonomous behavior** in **ROS2**.
 - **Computer Vision**: Applied **OpenCV, YOLO, and deep learning-based object detection** for **autonomous navigation, perception, and environment understanding** in **robotics and autonomous vehicles**.
+  
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Software Proficiency & Skills</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f8f9fa;
+        }
+        .skills-container {
+            max-width: 600px;
+            margin: auto;
+        }
+        .skill {
+            margin-bottom: 20px;
+        }
+        .skill-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .progress-bar {
+            width: 100%;
+            background-color: #e0e0e0;
+            border-radius: 5px;
+            height: 20px;
+            position: relative;
+            overflow: hidden;
+        }
+        .progress {
+            height: 100%;
+            border-radius: 5px;
+            background: linear-gradient(to right, #1a1aff, #000);
+        }
+        .matlab { width: 95%; }
+        .ros2 { width: 90%; }
+        .python { width: 85%; }
+        .cpp { width: 75%; }
+        .c { width: 70%; }
+        .embedded { width: 50%; }
+    </style>
+</head>
+<body>
+
+    <div class="skills-container">
+        <h2>Software Proficiency & Skills</h2>
+
+        <div class="skill">
+            <div class="skill-title">MATLAB</div>
+            <div class="progress-bar">
+                <div class="progress matlab"></div>
+            </div>
+        </div>
+
+        <div class="skill">
+            <div class="skill-title">ROS2</div>
+            <div class="progress-bar">
+                <div class="progress ros2"></div>
+            </div>
+        </div>
+
+        <div class="skill">
+            <div class="skill-title">Python</div>
+            <div class="progress-bar">
+                <div class="progress python"></div>
+            </div>
+        </div>
+
+        <div class="skill">
+            <div class="skill-title">C++</div>
+            <div class="progress-bar">
+                <div class="progress cpp"></div>
+            </div>
+        </div>
+
+        <div class="skill">
+            <div class="skill-title">C</div>
+            <div class="progress-bar">
+                <div class="progress c"></div>
+            </div>
+        </div>
+
+        <div class="skill">
+            <div class="skill-title">Embedded Assembly Language</div>
+            <div class="progress-bar">
+                <div class="progress embedded"></div>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>
 
 ---
 
