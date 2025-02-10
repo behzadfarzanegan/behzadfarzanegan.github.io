@@ -49,17 +49,17 @@ These controllers ensure **adaptive and efficient decision-making** in **uncerta
 
 ## **Robotic Platforms & Experimentation**
 
-### **1. Quanser QBot 3 – Differential Drive Robot**
+### **1. Quanser QCar – Autonomous Ground Vehicle**
 <p align="right">
-  <img src="images/Qbot.jpg" alt="Quanser QBot 3" width="300px">
+  <img src="images/Qcar.jpg" alt="Quanser QCar" width="300px">
 </p>
 
-The **Quanser QBot 3** is a **ROS2-compatible** mobile robot used for **navigation and mapping**. It is equipped with **LiDAR, cameras, and IMU sensors** to facilitate **SLAM-based research and real-time control experiments**.
+The **Quanser QCar** is a **ROS2-compatible** autonomous vehicle platform used for **self-driving research**. It features **LiDAR, cameras, GPS, and IMU sensors**, making it suitable for **motion planning and perception experiments**.
 
 **Applications:**
-- **SLAM (Simultaneous Localization and Mapping)**
-- **Autonomous Navigation in Indoor Environments**
-- **Reinforcement Learning for Mobile Robots**
+- **SLAM and Localization for Autonomous Vehicles**
+- **Perception and Sensor Fusion (LiDAR, GPS, Camera)**
+- **Reinforcement Learning for Driving Control**
 
 ---
 
@@ -77,17 +77,18 @@ The **Quanser QDrone** is a **ROS2-compatible** quadrotor UAV used for **autonom
 
 ---
 
-### **3. Quanser QCar – Autonomous Ground Vehicle**
+### **3.  Quanser QBot 3 – Differential Drive Robot**
 <p align="right">
-  <img src="images/Qcar.jpg" alt="Quanser QCar" width="300px">
+  <img src="images/Qbot.jpg" alt="Quanser QBot 3" width="300px">
 </p>
 
-The **Quanser QCar** is a **ROS2-compatible** autonomous vehicle platform used for **self-driving research**. It features **LiDAR, cameras, GPS, and IMU sensors**, making it suitable for **motion planning and perception experiments**.
+The **Quanser QBot 3** is a **ROS2-compatible** mobile robot used for **navigation and mapping**. It is equipped with **LiDAR, cameras, and IMU sensors** to facilitate **SLAM-based research and real-time control experiments**.
 
 **Applications:**
-- **SLAM and Localization for Autonomous Vehicles**
-- **Perception and Sensor Fusion (LiDAR, GPS, Camera)**
-- **Reinforcement Learning for Driving Control**
+- **SLAM (Simultaneous Localization and Mapping)**
+- **Autonomous Navigation in Indoor Environments**
+- **Reinforcement Learning for Mobile Robots**
+
 
 ---
 
