@@ -155,7 +155,7 @@ The **Quanser QBot 3** is a **ROS2-compatible** mobile robot used for **navigati
     <div class="skills-container">
         <h2>Software Proficiency & Skills</h2>
         <div class="skill">
-            <div class="skill-title">GNC</div>
+            <div class="skill-title">Guidance, Control and Navigation</div>
             <div class="progress-bar">
                 <div class="progress GNC"></div>
             </div>
@@ -169,7 +169,7 @@ The **Quanser QBot 3** is a **ROS2-compatible** mobile robot used for **navigati
         </div>
 
         <div class="skill">
-            <div class="skill-title">ROS2</div>
+            <div class="skill-title">ROS2 and Robatics</div>
             <div class="progress-bar">
                 <div class="progress ros2"></div>
             </div>
