@@ -103,7 +103,6 @@ The **Quanser QBot 3** is a **ROS2-compatible** mobile robot used for **navigati
 - **Gazebo**: Designed and simulated **complex robotic environments** to support **navigation, perception, and autonomous behavior** in **ROS2**.
 - **Computer Vision**: Applied **OpenCV, YOLO, and deep learning-based object detection** for **autonomous navigation, perception, and environment understanding** in **robotics and autonomous vehicles**.
   
-  <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -143,7 +142,7 @@ The **Quanser QBot 3** is a **ROS2-compatible** mobile robot used for **navigati
         .ros2 { width: 90%; }
         .python { width: 85%; }
         .cpp { width: 75%; }
-        .c { width: 70%; }
+        .GNC { width: 95%; }
         .embedded { width: 50%; }
     </style>
 </head>
@@ -151,6 +150,12 @@ The **Quanser QBot 3** is a **ROS2-compatible** mobile robot used for **navigati
 
     <div class="skills-container">
         <h2>Software Proficiency & Skills</h2>
+        <div class="skill">
+            <div class="skill-title">GNC</div>
+            <div class="progress-bar">
+                <div class="progress GNC"></div>
+            </div>
+        </div>
 
         <div class="skill">
             <div class="skill-title">MATLAB</div>
@@ -180,15 +185,10 @@ The **Quanser QBot 3** is a **ROS2-compatible** mobile robot used for **navigati
             </div>
         </div>
 
-        <div class="skill">
-            <div class="skill-title">C</div>
-            <div class="progress-bar">
-                <div class="progress c"></div>
-            </div>
-        </div>
+
 
         <div class="skill">
-            <div class="skill-title">Embedded Assembly Language</div>
+            <div class="skill-title">Computer Vision</div>
             <div class="progress-bar">
                 <div class="progress embedded"></div>
             </div>
