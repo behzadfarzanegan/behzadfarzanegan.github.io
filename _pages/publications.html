@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications test"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -9,4 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-
+{% for pub in site.publications %}
+  <h2>{{ pub.title }}</h2>
+  <p>{{ pub.content }}</p>
+{% endfor %}
