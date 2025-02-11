@@ -9,33 +9,4 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Publications</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.0.12/marked.min.js"></script>
-    <script>
-        async function loadMarkdown() {
-            try {
-                const response = await fetch('files/publications.md');
-                if (!response.ok) {
-                    throw new Error('Markdown file not found');
-                }
-                const text = await response.text();
-                document.getElementById('markdown-content').innerHTML = marked.parse(text);
-            } catch (error) {
-                console.error('Error loading Markdown:', error);
-                document.getElementById('markdown-content').innerHTML = "<p>Failed to load content.</p>";
-            }
-        }
-        window.onload = loadMarkdown;
-    </script>
-</head>
-<body>
-    <h1>Publications</h1>
-    <div id="markdown-content"></div>
-</body>
-</html>
-
+{% include_relative files/publications.md %}
