@@ -45,7 +45,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 <tr>
 <td width="150">
-    <img src="/images/SPS.png" width="150">
+    <img src="/images/carts.png" width="150">
 </td>
 <td>
     <strong>Data-Driven Distributed Optimal Control Using Neighborhood Optimization for Nonlinear Interconnected Systems</strong>  
