@@ -102,7 +102,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <br>
       <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani   
     <br>
-    <em>" IEEE Transactions on Neural Networks and Learning Systems, 2023 (Published)</em>  
+    <em>IEEE Transactions on Neural Networks and Learning Systems, 2023 (Published)</em>  
     <br>
     <a href="https://ieeexplore.ieee.org/document/10227732">📄 Paper</a>
 </td>
@@ -118,12 +118,93 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <br>
       <strong>Behzad Farzanegan</strong>, Amir A. Suratgar, Mohammad B. Menhaj, and Mohsen Zamani   
     <br>
-    <em>" International Journal of Control, 2022 (Published)</em>  
+    <em>International Journal of Control, 2022 (Published)</em>  
     <br>
     <a href="https://www.tandfonline.com/doi/abs/10.1080/00207179.2021.1976420">📄 Paper</a>
 </td>
 </tr>
 <!-- ======================================== -->
+<tr>
+<td width="150">
+    <img src="/images/expert.png" width="150">
+</td>
+<td>
+    <strong>A gradient ascent algorithm based on possibilistic fuzzy C-Means for clustering noisy data </strong>  
+    <br>
+      Hosein Saberi, Reza Sharbati, <strong>Behzad Farzanegan</strong>.   
+    <br>
+    <em> Expert Systems with Applications  , 2022 (Published)</em>  
+    <br>
+    <a href="https://link.springer.com/article/10.1007/s40998-019-00205-7">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+<tr>
+<td width="150">
+    <img src="/images/blockdiagram.png" width="150">
+</td>
+<td>
+    <strong>A neuro observer-based near-optimal control for nonaffine nonlinear systems with control input constraints </strong>  
+    <br>
+      <strong>Behzad Farzanegan</strong>, Mohsen Zamani, Mohammad B. Menhaj, and Amir A. Suratgar.   
+    <br>
+    <em>Control Theory and Technology, 2021 (Published)</em>  
+    <br>
+    <a href="https://link.springer.com/article/10.1007/s11768-021-00045-z">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+
+<tr>
+<td width="150">
+    <img src="/images/OWT.png" width="150">
+</td>
+<td>
+    <strong>A data-driven method for prediction and optimal control of ship motions for safe crew transfer to offshore wind turbines </strong>  
+    <br>
+      <strong>Behzad Farzanegan</strong>, Ehsan Esmailian, Mohammad B. Menhaj, and Amir A. Suratgar.   
+    <br>
+    <em> Applied Ocean Research, 2019 (Published)</em>  
+    <br>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141118718308575">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+
+<tr>
+<td width="150">
+    <img src="/images/MEMS.png" width="150">
+</td>
+<td>
+    <strong>Two MRAC Designs for the MEMS Based AC Voltage Reference Source </strong>  
+    <br>
+      <strong>Behzad Farzanegan</strong>, Ehsan Niafar, Ehsan Ranjbar, and Amir A. Suratgar.   
+    <br>
+    <em>Iranian Journal of Science and Technology, Transactions of Electrical Engineering , 2019 (Published)</em>  
+    <br>
+    <a href="https://link.springer.com/article/10.1007/s40998-019-00205-7">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+
+<tr>
+<td width="150">
+    <img src="/images/SES.png" width="150">
+</td>
+<td>
+    <strong>A robust neuro-based adaptive control system design for a SES with uncertain dynamics and input saturation to cargo transfer at sea </strong>  
+    <br>
+     Ehsan Esmailian,  <strong>Behzad Farzanegan</strong>,  Mohammad B. Menhaj  
+    <br>
+    <em> Applied Ocean Research, 2019 (Published)</em>  
+    <br>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141118717305503">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+
+
+
 
 #Conference Papers
 <tr>
@@ -137,7 +218,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <br>
     <em>IEEE Conference on Control Technology and Applications (CCTA), 2024 (Published)</em>  
     <br>
-    <a href="https://ieeexplore.ieee.org/document/10666630">📄 Paper</a>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417421014780">📄 Paper</a>
 </td>
 </tr>
 <!-- ======================================== -->
