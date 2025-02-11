@@ -43,21 +43,6 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <a href="#">📄 Paper</a>
 </td>
 </tr>
-
-<tr>
-<td width="150">
-    <img src="/images/carts.png" width="150">
-</td>
-<td>
-    <strong>Data-Driven Distributed Optimal Control Using Neighborhood Optimization for Nonlinear Interconnected Systems</strong>  
-    <br>
-    <strong>Behzad Farzanegan</strong>, M.B. Menhaj, and A.A. Suratgar  
-    <br>
-    <em>Journal of Optimization Theory and Application, 2024 (Published)</em>  
-    <br>
-    <a href="https://link.springer.com/article/10.1007/s10957-024-02543-x">📄 Paper</a>
-</td>
-</tr>
 </table>
 
 ---
@@ -92,21 +77,6 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <em>IEEE Conference on Control Technology and Applications (CCTA), 2023 (Published)</em>  
     <br>
     <a href="https://ieeexplore.ieee.org/document/10253015">📄 Paper</a>
-</td>
-</tr>
-
-<tr>
-<td width="150">
-    <img src="/images/TLM.png" width="150">
-</td>
-<td>
-    <strong>Optimal Tracking of Nonlinear Discrete-time Systems using Zero-Sum Game Formulation and Hybrid Learning: Application to Robotic Manipulators</strong>  
-    <br>
-    <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani  
-    <br>
-    <em>IEEE 2023 American Control Conference (ACC), 2023 (Published)</em>  
-    <br>
-    <a href="https://ieeexplore.ieee.org/document/10156305">📄 Paper</a>
 </td>
 </tr>
 </table>
