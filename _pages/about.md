@@ -9,7 +9,7 @@ redirect_from:
 <div style="width: 100%; height: 300px; background: url('/images/background.png') center/cover no-repeat;">
 </div>
 
-##**About Me**
+## **About Me**
 
 I am currently a **Ph.D. candidate** at [Missouri University of Science and Technology (MST)](https://www.mst.edu/) in the **Department of Electrical & Computer Engineering**, under the guidance of **Dr. Sarangapani**.  
 
