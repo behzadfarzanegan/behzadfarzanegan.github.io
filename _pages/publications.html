@@ -6,60 +6,46 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering with categories -->
+<!-- Publications Listing -->
 {% if site.publication_category %}
   {% for category in site.publication_category %}
-    <h2>{{ category[1].title }}</h2>
+    <h2 style="font-weight: bold;">{{ category[1].title }}</h2>
     <hr />
     {% for post in site.publications reversed %}
       {% if post.category == category[0] %}
-        <div style="display: flex; align-items: center; margin-bottom: 20px;">
+        <div style="display: flex; align-items: center; margin-bottom: 25px; padding: 10px; border-radius: 10px;">
+          
+          <!-- Thumbnail Image -->
           {% if post.image %}
-            <img src="{{ post.image }}" alt="Publication Image" style="width: 120px; height: auto; margin-right: 15px; border-radius: 5px;">
+            <img src="{{ post.image }}" alt="Publication Image" style="width: 150px; height: auto; margin-right: 20px; border-radius: 10px; border: 1px solid #ddd; padding: 5px;">
           {% endif %}
-          <div>
-            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-            <p><strong>{{ post.venue }}</strong> - {{ post.date | date: "%B %Y" }}</p>
-            <p>{{ post.excerpt }}</p>
+
+          <!-- Publication Details -->
+          <div style="flex: 1;">
+            <h3 style="margin: 0;">
+              <a href="{{ post.url }}" style="color: #007bff; text-decoration: none; font-weight: bold;">{{ post.title }}</a>
+            </h3>
+            <p style="margin: 5px 0;"><strong>{{ post.venue }}</strong> - {{ post.date | date: "%Y" }} (in review)</p>
+            <p style="color: #555; margin-bottom: 5px;">{{ post.excerpt }}</p>
+            
+            <!-- Links: Paper, Code, Slides -->
             {% if post.paperurl %}
-              <a href="{{ post.paperurl }}" target="_blank">📄 Paper</a>
+              <a href="{{ post.paperurl }}" target="_blank" style="color: #007bff; text-decoration: none;">📄 Paper</a>
             {% endif %}
             {% if post.codeurl %}
-              | <a href="{{ post.codeurl }}" target="_blank">💻 Code</a>
+              | <a href="{{ post.codeurl }}" target="_blank" style="color: #007bff; text-decoration: none;">💻 Code</a>
             {% endif %}
             {% if post.slidesurl %}
-              | <a href="{{ post.slidesurl }}" target="_blank">📊 Slides</a>
+              | <a href="{{ post.slidesurl }}" target="_blank" style="color: #007bff; text-decoration: none;">📊 Slides</a>
             {% endif %}
           </div>
         </div>
       {% endif %}
     {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    <div style="display: flex; align-items: center; margin-bottom: 20px;">
-      {% if post.image %}
-        <img src="{{ post.image }}" alt="Publication Image" style="width: 120px; height: auto; margin-right: 15px; border-radius: 5px;">
-      {% endif %}
-      <div>
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <p><strong>{{ post.venue }}</strong> - {{ post.date | date: "%B %Y" }}</p>
-        <p>{{ post.excerpt }}</p>
-        {% if post.paperurl %}
-          <a href="{{ post.paperurl }}" target="_blank">📄 Paper</a>
-        {% endif %}
-        {% if post.codeurl %}
-          | <a href="{{ post.codeurl }}" target="_blank">💻 Code</a>
-        {% endif %}
-        {% if post.slidesurl %}
-          | <a href="{{ post.slidesurl }}" target="_blank">📊 Slides</a>
-        {% endif %}
-      </div>
-    </div>
   {% endfor %}
 {% endif %}
