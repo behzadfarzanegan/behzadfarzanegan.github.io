@@ -86,9 +86,41 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <br>
       <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani   
     <br>
-    <em>IEEE Transactions on Systems, Man and Cybernetics: Systems , 2024 (Published)</em>  
+    <em>IEEE Transactions on Systems, Man and Cybernetics: Systems , 2023 (Published)</em>  
     <br>
     <a href="https://ieeexplore.ieee.org/document/10220228">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+
+<tr>
+<td width="150">
+    <img src="/images/twolink.png" width="150">
+</td>
+<td>
+    <strong>Optimal Adaptive Tracking Control of Partially Uncertain Nonlinear Discrete-time Systems using Lifelong Hybrid Learning  </strong>  
+    <br>
+      <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani   
+    <br>
+    <em>" IEEE Transactions on Neural Networks and Learning Systems, 2023 (Published)</em>  
+    <br>
+    <a href="https://ieeexplore.ieee.org/document/10227732">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+
+<tr>
+<td width="150">
+    <img src="/images/Distributed.png" width="150">
+</td>
+<td>
+    <strong>Distributed optimal control for continuous-time nonaffine nonlinear interconnected systems </strong>  
+    <br>
+      <strong>Behzad Farzanegan</strong>, Amir A. Suratgar, Mohammad B. Menhaj, and Mohsen Zamani   
+    <br>
+    <em>" International Journal of Control, 2022 (Published)</em>  
+    <br>
+    <a href="https://www.tandfonline.com/doi/abs/10.1080/00207179.2021.1976420">📄 Paper</a>
 </td>
 </tr>
 <!-- ======================================== -->
