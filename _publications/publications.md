@@ -1,5 +1,5 @@
 ---
-title: "Journal Papers"
+title: "List of Publications"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
@@ -11,7 +11,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-
+#Journal Papers
 <table>
 <tr>
 <td width="150">
@@ -27,6 +27,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <a href="#">📄 Paper</a>
 </td>
 </tr>
+<!--                                        -->
 
 <tr>
 <td width="150">
@@ -42,6 +43,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <a href="#">📄 Paper</a>
 </td>
 </tr>
+<!--                                        -->
 
 <tr>
 <td width="150">
@@ -57,5 +59,56 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <a href="https://link.springer.com/article/10.1007/s10957-024-02543-x">📄 Paper</a>
 </td>
 </tr>
+<!--                                        -->
+
+<tr>
+<td width="150">
+    <img src="/images/AUV.png" width="150">
+</td>
+<td>
+    <strong>Lifelong Safe Optimal Adaptive Tracking Control of Nonlinear Strict-feedback Discrete-time Systems </strong>  
+    <br>
+      <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani   
+    <br>
+    <em>International Journal of Adaptive Control and Signal Processing, 2024 (Published)</em>  
+    <br>
+    <a href="https://onlinelibrary.wiley.com/doi/10.1002/acs.3950?af=R">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+
+<tr>
+<td width="150">
+    <img src="/images/fig5_b.eps" width="150">
+</td>
+<td>
+    <strong>Continual Reinforcement Learning Formulation for Zero-Sum Game-based Constrained Optimal Tracking </strong>  
+    <br>
+      <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani   
+    <br>
+    <em>IEEE Transactions on Systems, Man and Cybernetics: Systems , 2024 (Published)</em>  
+    <br>
+    <a href="https://ieeexplore.ieee.org/document/10220228">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+
+#Conference Papers
+<tr>
+<td width="150">
+    <img src="/images/AUV 6dof.png" width="150">
+</td>
+<td>
+    <strong>Reinforcement Learning-Based Constrained Optimal Control of Strict-feedback Nonlinear Systems: Application to Autonomous Underwater Vehicles </strong>  
+    <br>
+      <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani   
+    <br>
+    <em>IEEE Conference on Control Technology and Applications (CCTA), 2024 (Published)</em>  
+    <br>
+    <a href="https://ieeexplore.ieee.org/document/10666630">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+
 
 </table>
