@@ -1,3 +1,9 @@
+---
+title: "Publications List"
+layout: none
+permalink: /publications-list/
+---
+
 # About Me
 
 I am currently a **Ph.D. candidate** at [Missouri University of Science and Technology (MST)](https://www.mst.edu/) in the **Department of Electrical & Computer Engineering**, under the guidance of **Dr. Sarangapani**.  
