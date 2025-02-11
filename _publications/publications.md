@@ -15,7 +15,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 <table>
 <tr>
 <td width="150">
-    <img src="/images/behzad.JPG" width="150">
+    <img src="/images/USV.png" width="150">
 </td>
 <td>
     <strong>Multi-Model Safety Aware Deep Reinforcement Learning-based Output Feedback Control of Autonomous Surface Vessels</strong>  
