@@ -1,8 +1,3 @@
----
-title: "Publications List"
-layout: none
-permalink: /publications-list/
----
 
 title: "Chance-Constrained Convex MPC for Robust Quadruped Locomotion Under Parametric and Additive Uncertainties"
 authors: Ananya Trivedi, Sarvesh Prajapati, Mark Zolotas, **Michael Everett**, Taskin Padir
