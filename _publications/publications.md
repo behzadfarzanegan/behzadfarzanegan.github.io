@@ -196,7 +196,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <br>
      Ehsan Esmailian,  <strong>Behzad Farzanegan</strong>,  Mohammad B. Menhaj  
     <br>
-    <em> Applied Ocean Research, 2019 (Published)</em>  
+    <em> Applied Ocean Research, 2018 (Published)</em>  
     <br>
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141118717305503">📄 Paper</a>
 </td>
@@ -205,10 +205,10 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 
 </table>
-</table>
-
 ---
 **Conference Papers**
+
+</table>
 <tr>
 <td width="150">
     <img src="/images/AUV 6dof.png" width="150">
@@ -224,6 +224,57 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 </td>
 </tr>
 <!-- ======================================== -->
+
+<tr>
+<td width="150">
+    <img src="/images/SES2.png" width="150">
+</td>
+<td>
+    <strong>Continual Learning-based Optimal Output Tracking of Nonlinear Discrete-time Systems with Constraints: Application to Safe Cargo Transfer </strong>  
+    <br>
+      <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani   
+    <br>
+    <em>IEEE Conference on Control Technology and Applications (CCTA), 2023 (Published)</em>  
+    <br>
+    <a href="https://ieeexplore.ieee.org/document/10253015">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+
+<tr>
+<td width="150">
+    <img src="/images/TLM.png" width="150">
+</td>
+<td>
+    <strong>Optimal Tracking of Nonlinear Discrete-time Systems using Zero-Sum Game Formulation and Hybrid Learning: Application to Robotic Manipulators </strong>  
+    <br>
+      <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani   
+    <br>
+    <em>IEEE 2023 American Control Conference (ACC), 2023 (Published)</em>  
+    <br>
+    <a href="https://ieeexplore.ieee.org/document/10156305">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+
+<tr>
+<td width="150">
+    <img src="/images/Drawing1.png" width="150">
+</td>
+<td>
+    <strong>Optimal Adaptive Output Regulation of Uncertain Nonlinear Discrete-time Systems using Lifelong Concurrent Learning </strong>  
+    <br>
+      Rohollah Moghadam, <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani   
+    <br>
+    <em>IEEE 61st Conference on Decision and Control (CDC) , 2022 (Published)</em>  
+    <br>
+    <a href="https://ieeexplore.ieee.org/document/9993219">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+
+
+
 
 
 </table>
