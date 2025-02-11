@@ -22,7 +22,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <br>
     <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani  
     <br>
-    <em>2024 (in review)</em>  
+    <em>IEEE Journal of Oceanic Engineering, 2025 (in review)</em>  
     <br>
     <a href="#">📄 Paper</a>
 </td>
@@ -30,16 +30,16 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 <tr>
 <td width="150">
-    <img src="/images/Qcar.jpg" width="150">
+    <img src="/images/SPS.png" width="150">
 </td>
 <td>
-    <strong>Continuous Contingency Planning with MPPI within MPPI</strong>  
+    <strong>Explainable and Safety Aware Deep Reinforcement Learning-based Control of Nonlinear Discrete-Time Systems Using Neural Network Gradient Decomposition</strong>  
     <br>
-    Leonard Jung, Alexander Estornell, <strong>Michael Everett</strong>  
+    <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani  
     <br>
-    <em>2024 (in review)</em>  
+    <em>IEEE Transactions on Automation Science and Engineering, 2025 (Revised)</em>  
     <br>
-    <a href="#">📄 Paper</a> &nbsp; <a href="#">💻 Code</a>
+    <a href="#">📄 Paper</a>
 </td>
 </tr>
 
