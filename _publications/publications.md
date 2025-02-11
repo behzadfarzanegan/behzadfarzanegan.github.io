@@ -208,7 +208,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 **Conference Papers**
 
-</table>
+<table>
 <tr>
 <td width="150">
     <img src="/images/AUV 6dof.png" width="150">
