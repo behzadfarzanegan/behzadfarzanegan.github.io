@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="width: 100%; height: 300px; background: url('/images/background.png') center/cover no-repeat;">
+<div style="width: 100%; height: 300px; background: url('/images/background2.png') center/cover no-repeat;">
 </div>
 
 
