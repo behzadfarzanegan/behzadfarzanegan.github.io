@@ -324,7 +324,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 <tr>
 <td width="150">
-    <img src="/images/mirror.png" width="150">
+    <img src="/images/flexible.png" width="150">
 </td>
 <td>
     <strong>Direct Artificial Neural Network Control of Single-Link Flexible Joint Manipulator </strong>  
