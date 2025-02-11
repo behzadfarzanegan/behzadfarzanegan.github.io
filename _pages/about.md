@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p align="center">
-  <img src="/images/background.png" alt="Profile Picture" width="300px">
-</p>
-# About Me
+<div style="width: 100%; height: 300px; background: url('/images/background.png') center/cover no-repeat;">
+</div>
+Me
 
 I am currently a **Ph.D. candidate** at [Missouri University of Science and Technology (MST)](https://www.mst.edu/) in the **Department of Electrical & Computer Engineering**, under the guidance of **Dr. Sarangapani**.  
 
@@ -45,11 +44,12 @@ My passion for **advanced control and autonomy** led me to pursue further studie
 - **Robotic Platforms**
 
 These controllers ensure **adaptive and efficient decision-making** in **uncertain environments**.
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="images/Qcar.jpg" alt="Quanser QCar" width="300px">
-    <img src="images/uav.png" alt="Quanser QDrone" width="300px">
-    <img src="images/Qbot.jpg" alt="Quanser QBot 3" width="300px">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; max-width: 100%; overflow: hidden;">
+    <img src="images/Qcar.jpg" alt="Quanser QCar" style="width: 30%; max-width: 300px; height: auto;">
+    <img src="images/uav.png" alt="Quanser QDrone" style="width: 30%; max-width: 300px; height: auto;">
+    <img src="images/Qbot.jpg" alt="Quanser QBot 3" style="width: 30%; max-width: 300px; height: auto;">
 </div>
+
 
 ---
 
