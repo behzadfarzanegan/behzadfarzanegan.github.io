@@ -15,7 +15,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 <table>
 <tr>
 <td width="150">
-    <img src="images/behzad.JPG" width="150">
+    <img src="/images/behzad.JPG" width="150">
 </td>
 <td>
     <strong>Chance-Constrained Convex MPC for Robust Quadruped Locomotion Under Parametric and Additive Uncertainties</strong>  
@@ -45,7 +45,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 <tr>
 <td width="150">
-    <img src="images/behzad.JPG" width="150">
+    <img src="/images/behzad.JPG" width="150">
 </td>
 <td>
     <strong>LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features</strong>  
