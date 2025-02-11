@@ -18,9 +18,9 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <img src="/images/behzad.JPG" width="150">
 </td>
 <td>
-    <strong>Chance-Constrained Convex MPC for Robust Quadruped Locomotion Under Parametric and Additive Uncertainties</strong>  
+    <strong>Multi-Model Safety Aware Deep Reinforcement Learning-based Output Feedback Control of Autonomous Surface Vessels</strong>  
     <br>
-    Ananya Trivedi, Sarvesh Prajapati, Mark Zolotas, <strong>Michael Everett</strong>, Taskin Padir  
+    <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani  
     <br>
     <em>2024 (in review)</em>  
     <br>
