@@ -45,16 +45,16 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 <tr>
 <td width="150">
-    <img src="/images/behzad.JPG" width="150">
+    <img src="/images/SPS.png" width="150">
 </td>
 <td>
-    <strong>LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features</strong>  
+    <strong>Data-Driven Distributed Optimal Control Using Neighborhood Optimization for Nonlinear Interconnected Systems</strong>  
     <br>
-    Zihao Dong, Jeff Pflueger, Leonard Jung, David Thorne, Philip R. Osteen, Christa S. Robison, Brett T. Lopez, <strong>Michael Everett</strong>  
+    <strong>Behzad Farzanegan</strong>, , M.B. Menhaj, and A.A. Suratgar  
     <br>
-    <em>2024 (in review)</em>  
+    <em>Journal of Optimization Theory and Application, 2024 (Published)</em>  
     <br>
-    <a href="#">📄 Paper</a> &nbsp; <a href="#">💻 Code</a>
+    <a href="https://link.springer.com/article/10.1007/s10957-024-02543-x">📄 Paper</a>
 </td>
 </tr>
 
