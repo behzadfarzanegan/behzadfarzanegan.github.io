@@ -30,7 +30,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 <tr>
 <td width="150">
-    <img src="images/behzad.JPG" width="150">
+    <img src="images/Qcar.jpg" width="150">
 </td>
 <td>
     <strong>Continuous Contingency Planning with MPPI within MPPI</strong>  
