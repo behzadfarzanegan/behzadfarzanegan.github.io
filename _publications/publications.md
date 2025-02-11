@@ -79,7 +79,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 <tr>
 <td width="150">
-    <img src="/images/fig5_b.eps" width="150">
+    <img src="/images/fig5_b.png" width="150">
 </td>
 <td>
     <strong>Continual Reinforcement Learning Formulation for Zero-Sum Game-based Constrained Optimal Tracking </strong>  
