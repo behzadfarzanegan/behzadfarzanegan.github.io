@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="images/background.png" alt="Profile Picture" width="300px">
+  <img src="/images/background.png" alt="Profile Picture" width="300px">
 </p>
 # About Me
 
