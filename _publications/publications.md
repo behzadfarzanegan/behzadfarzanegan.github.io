@@ -11,7 +11,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-#Journal Papers
+**Journal Papers**
 <table>
 <tr>
 <td width="150">
@@ -204,8 +204,8 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 <!-- ======================================== -->
 
 
-
-
+</table>
+</table>
 #Conference Papers
 <tr>
 <td width="150">
