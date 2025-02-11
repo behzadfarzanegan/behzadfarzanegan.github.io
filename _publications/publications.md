@@ -266,12 +266,91 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <br>
       Rohollah Moghadam, <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani   
     <br>
-    <em>IEEE 61st Conference on Decision and Control (CDC) , 2022 (Published)</em>  
+    <em>IEEE 61st Conference on Decision and Control (CDC), 2022 (Published)</em>  
     <br>
     <a href="https://ieeexplore.ieee.org/document/9993219">📄 Paper</a>
 </td>
 </tr>
 <!-- ======================================== -->
 
+<tr>
+<td width="150">
+    <img src="/images/MRAC.png" width="150">
+</td>
+<td>
+    <strong>An identification approach for unstable nonlinear systems with nonlinear parameterization using MRAC </strong>  
+    <br>
+      <strong>Behzad Farzanegan</strong>, Ebrahim Navid Sajadi and Mohammad Bagher Menhaj  
+    <br>
+    <em>The 28th Iranian Conference on Electrical Engineering, 2020 (Published)</em>  
+    <br>
+    <a href="https://ieeexplore.ieee.org/document/9260758">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
 
+<tr>
+<td width="150">
+    <img src="/images/AC.png" width="150">
+</td>
+<td>
+    <strong>Observer-Based Sliding Mode Control for MEMS-based AC Voltage Reference Source </strong>  
+    <br>
+      Abolfazl Saadati Moghadam, Ehsan Ranjbar, <strong>Behzad Farzanegan</strong>,  Mohammad Bagher Menhaj  
+    <br>
+    <em>The 28th Iranian Conference on Electrical Engineering, 2020 (Published)</em>  
+    <br>
+    <a href="https://ieeexplore.ieee.org/document/9260715">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+
+<tr>
+<td width="150">
+    <img src="/images/mirror.png" width="150">
+</td>
+<td>
+    <strong>Sliding Mode Control for an Optimal MEMS Micromirror Actuator with Parameter Uncertainty </strong>  
+    <br>
+      Reza Naseri,  <strong>Behzad Farzanegan</strong>, Amir Abolfazl Suratgar   
+    <br>
+    <em>The 27th Iranian Conference on Electrical Engineering , 2019 (Published)</em>  
+    <br>
+    <a href="https://ieeexplore.ieee.org/document/8786674">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+
+
+<tr>
+<td width="150">
+    <img src="/images/mirror.png" width="150">
+</td>
+<td>
+    <strong>Direct Artificial Neural Network Control of Single-Link Flexible Joint Manipulator </strong>  
+    <br>
+      <strong>Behzad Farzanegan</strong>, Saman Dehghan Banadaki, Mohammad B. Menhaj
+    <br>
+    <em>The 4th International Conference on Control, Instrumentation, and Automation (Published)</em>  
+    <br>
+    <a href="https://ieeexplore.ieee.org/document/7483149">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
+
+<tr>
+<td width="150">
+    <img src="/images/mirror.png" width="150">
+</td>
+<td>
+    <strong>Fault Detectability Condition of Networked Control System with Variable Network-Induced Delay </strong>  
+    <br>
+      Saman Dehghan Banadaki, Ahmad Afshar,  <strong>Behzad Farzanegan</strong>
+    <br>
+    <em>The 4th International Conference on Control, Instrumentation, and Automation (Published)</em>  
+    <br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/7483147">📄 Paper</a>
+</td>
+</tr>
+<!-- ======================================== -->
 </table>
