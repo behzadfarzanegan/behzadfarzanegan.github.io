@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<p align="center">
+  <img src="images/background.png" alt="Profile Picture" width="300px">
+</p>
 # About Me
 
 I am currently a **Ph.D. candidate** at [Missouri University of Science and Technology (MST)](https://www.mst.edu/) in the **Department of Electrical & Computer Engineering**, under the guidance of **Dr. Sarangapani**.  
