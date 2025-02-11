@@ -340,7 +340,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 <tr>
 <td width="150">
-    <img src="/images/mirror.png" width="150">
+    <img src="/images/NCS.png" width="150">
 </td>
 <td>
     <strong>Fault Detectability Condition of Networked Control System with Variable Network-Induced Delay </strong>  
