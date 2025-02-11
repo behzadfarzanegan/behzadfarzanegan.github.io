@@ -5,10 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% for pub in site.publications %}
+<!--   <h2>{{ pub.title }}</h2> -->
+  <p>{{ pub.content }}</p>
 {% endfor %}
-
