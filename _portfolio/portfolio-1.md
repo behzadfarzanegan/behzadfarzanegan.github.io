@@ -56,8 +56,8 @@ Developed an Explainable safety-aware deep reinforcement learning (DRL)-based co
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap; max-width: 100vw;">
-    <img src="/images/correlation_heatmap.png" alt="Correlation Heatmap" style="width: 50%; height: auto;">
-    <img src="/images/shap_summary_plot.png" alt="SHAP Summary Plot" style="width: 50%; height: auto;">
+    <img src="/images/correlation_heatmap.png" alt="Correlation Heatmap" style="width: 45%; height: auto;">
+    <img src="/images/shap_summary_plot.png" alt="SHAP Summary Plot" style="width: 45%; height: auto;">
 </div>
 
 
