@@ -6,7 +6,7 @@ collection: publications
 
 <table style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
-<td width="300" style="border: none;">
+<td width="150" style="border: none; padding: 10px; border: 2px solid black; border-radius: 15px;">
     <img src="/images/AUV.png" width="300">
 </td>
 <td style="border: none;">
