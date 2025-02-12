@@ -9,7 +9,7 @@ collection: publications
 <tr style="border: none;">
 <td width="250" style="border: none; text-align: center;">
     <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
-        <img src="/images/AUV.png" width="150" style="border-radius: 15px;">
+        <img src="/images/AUV.png" width="250" style="border-radius: 15px;">
     </div>
 </td>
 <td style="border: none; text-align: justify; padding: 10px;">
