@@ -46,7 +46,7 @@ Developed a deep reinforcement learning-based control framework for safe and opt
 
 <div style="text-align: center; margin-top: 20px;">
     <video width="800" controls>
-        <source src="/images/USV.mp4" type="video/mp4">
+        <source src="/images/USV.webm" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
