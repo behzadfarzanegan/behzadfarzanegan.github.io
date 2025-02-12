@@ -7,7 +7,7 @@ collection: publications
 <table style="border-collapse: collapse; border: none;">
 <tr style="border: none;">
 <td width="150" style="border: none;">
-    <img src="/images/AUV.png" width="150">
+    <img src="/images/AUV.png" width="300">
 </td>
 <td style="border: none;">
     <strong>Reinforcement Learning-Based Constrained Optimal Control for 6-DoF Autonomous Underwater Vehicles</strong>  
