@@ -58,7 +58,7 @@ collection: publications
 
 <div style="text-align: center; margin-top: 20px;">
     <video width="600" controls>
-        <source src="/images/Qcar.webm" type="video/mp4">
+        <source src="/images/qdrone.webm" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
