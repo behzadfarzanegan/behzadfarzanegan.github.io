@@ -82,7 +82,7 @@ Developed an Explainable safety-aware deep reinforcement learning (DRL)-based co
 Developed a **deep reinforcement learning-based control framework** for **optimal adaptive tracking** of **nonlinear discrete-time UAV systems** with **partially uncertain dynamics**. The approach employs an **actor-critic multilayer neural network (MNN)** to approximate the **value function** and derive an **optimal control policy**. A **hybrid learning scheme** is introduced, where the **critic MNN weights** are updated both **at each sampling instant** and iteratively **between sampling instants** to enhance learning convergence.  
 
         To **address the persistency of excitation (PE) condition**, a **replay buffer** is incorporated into the **critic update law** using **concurrent learning**, improving sample efficiency and control robustness, leading to **lower cumulative cost and improved UAV tracking performance**.  
- 
+       <br>
     </td>
 </tr>
 </table>
