@@ -4,20 +4,3 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: publications
 ---
 
-
-**Projects**
-<table style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td width="150" style="border: none;">
-    <img src="/images/AUV.png" width="150">
-</td>
-<td style="border: none;">
-    <strong>Reinforcement Learning-Based Constrained Optimal Control for 6-DoF Autonomous Underwater Vehicles</strong>  
-    <br>
-    <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani   
-    <br>
-    <em>International Journal of Adaptive Control and Signal Processing, 2024 (Published)</em>  
-    <br>
-</td>
-</tr>
-</table>
