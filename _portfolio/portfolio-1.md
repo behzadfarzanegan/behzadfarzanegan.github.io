@@ -12,7 +12,7 @@ collection: publications
     <img src="/images/AUV.png" width="150">
 </td>
 <td style="border: none;">
-    <strong>Reinforcement Learning-Based Constrained Optimal Control of Strict-feedback Nonlinear Systems: Application to Autonomous Underwater Vehicles</strong>  
+    <strong>Reinforcement Learning-Based Constrained Optimal Control for 6-DoF Autonomous Underwater Vehicles</strong>  
     <br>
     <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani   
     <br>
