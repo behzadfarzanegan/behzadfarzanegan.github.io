@@ -91,6 +91,37 @@ Developed an Explainable safety-aware deep reinforcement learning (DRL)-based co
 </tr>
 </table>
 
+<div style="text-align: center; margin-top: 20px;">
+    <video width="600" controls>
+        <source src="/images/Qdrone.webm" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
 
+
+
+---
+<table style="border-collapse: collapse; border: none; width: 100%;">
+<tr style="border: none;">
+    <td width="250" style="border: none; text-align: center;">
+        <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
+            <img src="/images/Qcar.jpg" width="250" style="border-radius: 15px;">
+        </div>
+    </td>
+    <td style="border: none; padding: 10px;">
+        <strong>QCar Control and Estimation Framework</strong>  
+        <br>
+        This project implements a control and estimation framework for a QCar system, leveraging sensor fusion techniques with Kalman Filters (KF) and Extended Kalman Filters (EKF). The system integrates data from gyroscopes, GPS, and motor tachometers to estimate the state of the vehicle, including position, heading angle, and sensor biases.
+    </td>
+</tr>
+</table>
+
+<div style="text-align: center; margin-top: 20px;">
+    <video width="600" controls>
+    <source src="/images/Qcar.webm" type="video/mp4 style="width: 35%; height: auto;">
+    <img src="/images/EKF.png" alt="SHAP Summary Plot" style="width: 35%; height: auto;">
+        Your browser does not support the video tag.
+    </video>
+</div>
 
 
