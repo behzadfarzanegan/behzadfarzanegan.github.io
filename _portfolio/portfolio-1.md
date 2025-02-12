@@ -71,15 +71,20 @@ Developed an Explainable safety-aware deep reinforcement learning (DRL)-based co
 ---
 <table style="border-collapse: collapse; border: none; width: 100%;">
 <tr style="border: none;">
-<td width="250" style="border: none; text-align: center;">
-    <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
-        <img src="/images/uav.png" width="250" style="border-radius: 15px;">
-    </div>
-</td>
-<td style="border: none; padding: 10px;">
-    <strong>Explainable Multi-Model Safety-Aware Deep RL Output Feedback Control with Obstacle Avoidance and A* Path Planning for Autonomous Surface Vessels</strong>  
-    <br>
-Developed an Explainable safety-aware deep reinforcement learning (DRL)-based control framework for optimal trajectory tracking of Autonomous Surface Vessels (ASVs). The framework employs a multilayer neural network (MNN) observer for state estimation and integrates Control Barrier Functions (CBFs) into the Hamiltonian via the Lagrangian multiplier to enforce safety constraints. An actor-critic MNN, optimized using Singular Value Decomposition (SVD), stabilizes learning by mitigating the vanishing gradient problem. Additionally, a safe lifelong learning (SLL) scheme based on multiple models prevents catastrophic forgetting across varying ASV dynamics. The framework also incorporates an A* path planning module for generating collision-free trajectories and a real-time obstacle avoidance strategy for safe navigation. SHAP analysis is used to enhance interpretability by identifying critical features in the optimal policy. Simulations on an underactuated ASV model demonstrate that SLL improves performance, reducing cumulative costs by 17% and RMS tracking error by 32% compared to a non-SLL control scheme
-</td>
+    <td width="250" style="border: none; text-align: center;">
+        <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
+            <img src="/images/uav.png" width="250" style="border-radius: 15px;">
+        </div>
+    </td>
+    <td style="border: none; padding: 10px;">
+        <strong>Multi-Layer Neural Network-Based Optimal Adaptive Tracking Control of Unmanned Aerial Vehicles</strong>  
+        <br>
+Developed a **deep reinforcement learning-based control framework** for **optimal adaptive tracking** of **nonlinear discrete-time UAV systems** with **partially uncertain dynamics**. The approach employs an **actor-critic multilayer neural network (MNN)** to approximate the **value function** and derive an **optimal control policy**. A **hybrid learning scheme** is introduced, where the **critic MNN weights** are updated both **at each sampling instant** and iteratively **between sampling instants** to enhance learning convergence.  
+
+        To **address the persistency of excitation (PE) condition**, a **replay buffer** is incorporated into the **critic update law** using **concurrent learning**, improving sample efficiency and control robustness, leading to **lower cumulative cost and improved UAV tracking performance**.  
+ 
+    </td>
 </tr>
 </table>
+
+
