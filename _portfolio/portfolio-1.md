@@ -43,7 +43,7 @@ collection: publications
 <td style="border: none; padding: 10px;">
     <strong>Explainable Multi-Model Safety-Aware Deep RL Output Feedback Control with Obstacle Avoidance and A* Path Planning for Autonomous Surface Vessels</strong>  
     <br>
-Developed an Explainable safety-aware deep reinforcement learning (DRL)-based control framework for optimal trajectory tracking of Autonomous Surface Vessels (ASVs). The framework employs a multilayer neural network (MNN) observer for state estimation and integrates Control Barrier Functions (CBFs) into the Hamiltonian via the Lagrangian multiplier to enforce safety constraints. An actor-critic MNN, optimized using Singular Value Decomposition (SVD), stabilizes learning by mitigating the vanishing gradient problem. Additionally, a safe lifelong learning (SLL) scheme based on multiple models prevents catastrophic forgetting across varying ASV dynamics. The framework also incorporates an A* path planning module for generating collision-free trajectories and a real-time obstacle avoidance strategy for safe navigation. SHAP analysis is used to enhance interpretability by identifying critical features in the optimal policy. Simulations on an underactuated ASV model demonstrate that SLL improves performance, reducing cumulative costs by 17% and RMS tracking error by 32% compared to a non-SLL control scheme
+Developed an Explainable safety-aware deep reinforcement learning (DRL)-based control framework for optimal trajectory tracking of Autonomous Surface Vessels (ASVs). The framework employs a multilayer neural network (MNN) observer for state estimation and integrates Control Barrier Functions (CBFs) into the Hamiltonian via the Lagrangian multiplier to enforce safety constraints. An actor-critic MNN, optimized using Singular Value Decomposition (SVD), stabilizes learning by mitigating the vanishing gradient problem. Additionally, a safe lifelong learning (SLL) scheme based on multiple models prevents catastrophic forgetting across varying ASV dynamics. The framework also incorporates an A* path planning module for generating collision-free trajectories and a real-time obstacle avoidance strategy for safe navigation. SHAP analysis is used to enhance interpretability by identifying critical features in the optimal policy. Simulations on an underactuated ASV model demonstrate that SLL improves performance, reducing cumulative costs by 17% and RMS tracking error by 32% compared to a non-SLL control scheme.
 </td>
 </tr>
 </table>
@@ -55,9 +55,9 @@ Developed an Explainable safety-aware deep reinforcement learning (DRL)-based co
     </video>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap; max-width: 90vw;">
-    <img src="/images/correlation_heatmap.png" alt="Correlation Heatmap" style="width: 45%; height: auto;">
-    <img src="/images/shap_summary_plot.png" alt="SHAP Summary Plot" style="width: 45%; height: auto;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px; flex-wrap: nowrap; max-width: 80vw;">
+    <img src="/images/correlation_heatmap.png" alt="Correlation Heatmap" style="width: 35%; height: auto;">
+    <img src="/images/shap_summary_plot.png" alt="SHAP Summary Plot" style="width: 35%; height: auto;">
 </div>
 
 
