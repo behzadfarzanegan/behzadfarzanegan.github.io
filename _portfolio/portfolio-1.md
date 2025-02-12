@@ -23,12 +23,12 @@ collection: publications
 </tr>
 </table>
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-top: 20px;">
-    <video style="width: 50%; height: auto;" controls>
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-top: 20px; gap: 5px;">
+    <video style="width: 40%; height: auto;" controls>
         <source src="/images/Qcar.webm" type="video/webm">
         Your browser does not support the video tag.
     </video>
-    <img src="/images/EKF.png" alt="EKF" style="width: 50%; height: auto;">
+    <img src="/images/EKF.png" alt="EKF" style="width: 40%; height: auto;">
 </div>
 
 
@@ -57,7 +57,7 @@ collection: publications
 </table>
 
 <div style="text-align: center; margin-top: 20px;">
-    <video width="600" controls>
+    <video width="500" controls>
         <source src="/images/qdrone.webm" type="video/mp4">
         Your browser does not support the video tag.
     </video>
