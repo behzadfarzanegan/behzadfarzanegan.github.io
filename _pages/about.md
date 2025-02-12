@@ -14,11 +14,11 @@ redirect_from:
 
 # About Me
 
-I am currently a **Ph.D. candidate** at [Missouri University of Science and Technology (MST)](https://www.mst.edu/) in the **Department of Electrical & Computer Engineering**, under the guidance of **Dr. Sarangapani**.  
+I am currently a Ph.D. candidate at [Missouri University of Science and Technology (MST)](https://www.mst.edu/) in the Department of Electrical & Computer Engineering, under the guidance of [Dr. Sarangapani](https://ece.mst.edu/people/faculty-directory/jagannathan-sarangapani/).  
 
-My research focuses on **reinforcement learning-based optimal tracking control** for **nonlinear discrete-time systems**, with applications in **robotics and autonomous vehicles**. A significant aspect of my work is **lifelong learning-based optimal controllers**, where the controller continuously learns from past experiences to enhance future performance. I also emphasize **safety-aware and explainable AI**, ensuring the **reliability and interpretability** of autonomous decision-making systems.  
+My research focuses on reinforcement learning-based optimal tracking control for nonlinear discrete-time systems, with applications in robotics and autonomous vehicles. A significant aspect of my work is lifelong learning-based optimal controllers, where the controller continuously learns from past experiences to enhance future performance. I also emphasize safety-aware and explainable AI, ensuring the reliability and interpretability of autonomous decision-making systems.  
 
-Beyond my core research, I explore **machine learning applications in cyber-physical systems**, including:
+Beyond my core research, I explore machine learning applications in cyber-physical systems, including:
 - **Vision-based robotic manipulation and localization**
 - **Motion planning & perception**
 - **SLAM and mapping for real-world autonomous navigation**
@@ -27,13 +27,13 @@ Beyond my core research, I explore **machine learning applications in cyber-phys
 
 ## **Research Interests**
 
-- **Reinforcement Learning & Optimal Control**: Developing **safe and explainable deep reinforcement learning-based controllers** for **nonlinear, discrete-time systems**, with real-world applications in **robotics and autonomous systems**.
-- **Navigation & Motion Planning**: Designing **adaptive and robust path optimization strategies** for **autonomous vehicles and mobile robots**, enabling efficient navigation in **off-road terrains (forests, deserts)** and **human-centered environments (sidewalks, crowded buildings)**.
-- **Perception & Sensor Fusion**: Implementing **multi-sensor fusion techniques** (LiDAR, GPS, IMU) to enhance **state estimation, localization, and tracking** in dynamic environments.
-- **Artificial Intelligence in Autonomous Systems**: Leveraging **deep learning and AI-driven models** to enhance **decision-making and control** in **robotics, self-driving cars, and unmanned systems**.
-- **Machine Learning for Control & Simulation**: Integrating **deep learning-based controllers** with **traditional model-based control** (MPC, PID, fuzzy logic) for improved robustness in **nonlinear and uncertain systems**.
-- **Robotics & Autonomous Vehicles**: Advancing **motion control, planning, and reinforcement learning** for **humanoid robots, mobile manipulators, and self-driving platforms**.
-- **Safety & Security in Nonlinear Systems**: Developing **safe reinforcement learning-based controllers** with **performance guarantees** in critical autonomous operations.
+- **Reinforcement Learning & Optimal Control**: Developing safe and explainable deep reinforcement learning-based controllers for nonlinear, discrete-time systems, with real-world applications in robotics and autonomous systems.
+- **Navigation & Motion Planning**: Designing adaptive and robust path optimization strategies for autonomous vehicles and mobile robots, enabling efficient navigation in off-road terrains (forests, deserts) and human-centered environments (sidewalks, crowded buildings).
+- **Perception & Sensor Fusion**: Implementing multi-sensor fusion techniques (LiDAR, GPS, IMU) to enhance state estimation, localization, and tracking in dynamic environments.
+- **Artificial Intelligence in Autonomous Systems**: Leveraging deep learning and AI-driven models to enhance decision-making and control in robotics, self-driving cars, and unmanned systems.
+- **Machine Learning for Control & Simulation**: Integrating deep learning-based controllers with traditional model-based control (MPC, PID, fuzzy logic) for improved robustness in nonlinear and uncertain systems.
+- **Robotics & Autonomous Vehicles**: Advancing motion control, planning, and reinforcement learning for humanoid robots, mobile manipulators, and self-driving platforms.
+- **Safety & Security in Nonlinear Systems**: Developing safe reinforcement learning-based controllers with performance guarantees in critical autonomous operations.
 
 ---
 <!--
