@@ -13,7 +13,7 @@ collection: publications
     </div>
 </td>
 <td style="border: none; text-align: justify; padding: 10px;">
-    <strong>Deep RL-Based Optimal Control of 6-DoF Autonomous Underwater Vehicles</strong>  
+    <strong> Multi-Tasking Deep RL-Based Optimal Control of 6-DoF Autonomous Underwater Vehicles</strong>  
     <br>
     Developed a reinforcement learning-based control framework for safe and optimal tracking of 6-DoF AUVs. The approach integrates an MNN-based actor-critic method with backstepping and Hamilton-Jacobi-Bellman (HJB) optimization to derive optimal control policies. Safety is ensured through Barrier Functions (BFs) and Control Barrier Functions (CBFs), while Elastic Weight Consolidation (EWC) prevents catastrophic forgetting in multi-task scenarios. Simulations validate the system’s stability, adaptability, and effectiveness in dynamic underwater environments.
 </td>
