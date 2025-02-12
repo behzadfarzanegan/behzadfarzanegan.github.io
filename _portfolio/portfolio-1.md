@@ -37,7 +37,7 @@ collection: publications
     </div>
 </td>
 <td style="border: none; padding: 10px;">
-    <strong>Explainable Multi-Model Safety-Aware Deep RL Output Feedback Control for Autonomous Surface Vessels</strong>  
+    <strong>Explainable Multi-Model Safety-Aware Deep RL Output Feedback Control with Obstacle Avoidance and A* Path Planning for Autonomous Surface Vessels</strong>  
     <br>
 Developed a deep reinforcement learning-based control framework for safe and optimal trajectory tracking of Autonomous Surface Vessels (ASVs). The approach integrates an MNN observer for state estimation, Control Barrier Functions (CBFs) for safety, and an actor-critic MNN optimized with Singular Value Decomposition (SVD) to enhance learning stability. A safe lifelong learning (SLL) scheme prevents catastrophic forgetting across varying ASV dynamics, while SHAP analysis provides interpretability. Simulations show SLL improves performance, reducing cumulative costs by 17% and RMS tracking error by 32%.
 </td>
@@ -46,7 +46,7 @@ Developed a deep reinforcement learning-based control framework for safe and opt
 
 <div style="text-align: center; margin-top: 20px;">
     <video width="800" controls>
-        <source src="/images/asv.mp4" type="video/mp4">
+        <source src="/images/USV.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
