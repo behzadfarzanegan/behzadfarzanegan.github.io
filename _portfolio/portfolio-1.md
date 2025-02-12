@@ -93,7 +93,7 @@ Developed an Explainable safety-aware deep reinforcement learning (DRL)-based co
 
 <div style="text-align: center; margin-top: 20px;">
     <video width="600" controls>
-        <source src="/images/Qdrone.webm" type="video/mp4">
+        <source src="/images/Qcar.webm" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
