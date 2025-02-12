@@ -36,7 +36,7 @@ Beyond my core research, I explore **machine learning applications in cyber-phys
 - **Safety & Security in Nonlinear Systems**: Developing **safe reinforcement learning-based controllers** with **performance guarantees** in critical autonomous operations.
 
 ---
-
+<!--
 ## **Academic Background & Research Initiatives**  
 
 I earned my **M.Sc. in Electrical Engineering** from **Amirkabir University of Technology**, specializing in **distributed optimal control for power systems**. My thesis focused on **developing advanced control strategies for power networks**, optimizing system performance through **mathematical modeling and distributed control techniques**.
@@ -54,7 +54,7 @@ These controllers ensure **adaptive and efficient decision-making** in **uncerta
     <img src="images/Qbot.jpg" alt="Quanser QBot 3" style="width: 30%; max-width: 300px; height: auto;">
 </div>
 
-
+-->
 ---
 
 
