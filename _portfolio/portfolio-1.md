@@ -22,7 +22,7 @@ collection: publications
 
 <div style="text-align: center; margin-top: 20px;">
     <video width="800" controls>
-        <source src="/images/auv.mp4" type="video/mp4">
+        <source src="/images/AUV.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
