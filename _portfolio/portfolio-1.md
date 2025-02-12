@@ -111,17 +111,19 @@ Developed an Explainable safety-aware deep reinforcement learning (DRL)-based co
     <td style="border: none; padding: 10px;">
         <strong>QCar Control and Estimation Framework</strong>  
         <br>
-        This project implements a control and estimation framework for a QCar system, leveraging sensor fusion techniques with Kalman Filters (KF) and Extended Kalman Filters (EKF). The system integrates data from gyroscopes, GPS, and motor tachometers to estimate the state of the vehicle, including position, heading angle, and sensor biases.
+        This project implements a control and estimation framework for a QCar system, leveraging sensor fusion techniques with Kalman Filters (KF) and Extended Kalman Filters (EKF). The system integrates data from gyroscopes, GPS, and motor tachometers to estimate the state of the vehicle, including position, heading angle, and sensor biases. To ensure precise motion control, the system employs a Proportional-Integral-Derivative (PID) controller. The PID controller regulates vehicle speed and 
+        steering angle by dynamically adjusting control inputs based on real-time state estimates. 
     </td>
 </tr>
 </table>
 
-<div style="text-align: center; margin-top: 20px;">
-    <video width="600" controls>
-    <source src="/images/Qcar.webm" type="video/mp4 style="width: 35%; height: auto;">
-    <img src="/images/EKF.png" alt="SHAP Summary Plot" style="width: 35%; height: auto;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-top: 20px;">
+    <video style="width: 50%; height: auto;" controls>
+        <source src="/images/Qcar.webm" type="video/webm">
         Your browser does not support the video tag.
     </video>
+    <img src="/images/EKF.png" alt="EKF" style="width: 50%; height: auto;">
 </div>
+
 
 
