@@ -15,7 +15,7 @@ collection: publications
 <td style="border: none; padding: 10px;">
     <strong> Multi-Tasking Deep RL-Based Optimal Control of 6-DoF Autonomous Underwater Vehicles</strong>  
     <br>
-    Developed a reinforcement learning-based control framework for safe and optimal tracking of 6-DoF AUVs. The approach integrates an MNN-based actor-critic method with backstepping and Hamilton-Jacobi-Bellman (HJB) optimization to derive optimal control policies. Safety is ensured through Barrier Functions (BFs) and Control Barrier Functions (CBFs), while Elastic Weight Consolidation (EWC) prevents catastrophic forgetting in multi-task scenarios. Simulations validate the system’s stability, adaptability, and effectiveness in dynamic underwater environments.
+    Developed a reinforcement learning-based control framework for safe and optimal tracking of 6-DoF AUVs. The approach integrates an MNN-based actor-critic method with backstepping and Hamilton-Jacobi-Bellman (HJB) optimization to derive optimal control policies. Safety is ensured through Barrier Functions (BFs) and Control Barrier Functions (CBFs) integrated into learning update laws, while Elastic Weight Consolidation (EWC) prevents catastrophic forgetting in multi-task scenarios. Simulations validate the system’s stability, adaptability, and effectiveness in dynamic underwater environments.
 </td>
 </tr>
 </table>
@@ -39,7 +39,7 @@ collection: publications
 <td style="border: none; padding: 10px;">
     <strong>Explainable Multi-Model Safety-Aware Deep RL Output Feedback Control with Obstacle Avoidance and A* Path Planning for Autonomous Surface Vessels</strong>  
     <br>
-Developed a deep reinforcement learning-based control framework for safe and optimal trajectory tracking of Autonomous Surface Vessels (ASVs). The approach integrates an MNN observer for state estimation, Control Barrier Functions (CBFs) for safety, and an actor-critic MNN optimized with Singular Value Decomposition (SVD) to enhance learning stability. A safe lifelong learning (SLL) scheme prevents catastrophic forgetting across varying ASV dynamics, while SHAP analysis provides interpretability. Simulations show SLL improves performance, reducing cumulative costs by 17% and RMS tracking error by 32%.
+Developed a deep reinforcement learning-based control framework for safe and optimal trajectory tracking of Autonomous Surface Vessels (ASVs). The approach integrates an MNN observer for state estimation, Control Barrier Functions (CBFs) for safety, and an actor-critic MNN optimized with Singular Value Decomposition (SVD) to enhance learning stability. A safe lifelong learning (SLL) scheme prevents catastrophic forgetting across varying ASV dynamics, while SHAP analysis provides interpretability. The framework also integrates obstacle avoidance using A* path planning, ensuring dynamic adaptation to environmental constraints. Simulations show SLL improves performance, reducing cumulative costs by 17% and RMS tracking error by 32%
 </td>
 </tr>
 </table>
