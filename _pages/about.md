@@ -59,7 +59,7 @@ These controllers ensure **adaptive and efficient decision-making** in **uncerta
 
 
 ## **Technical Skills**
-
+<!-- 
 - **MATLAB**: Developed and implemented **adaptive control and estimation algorithms**, with results published in **American Control Conferences and Journals**.
 - **Python**: Designed and implemented **deep learning and reinforcement learning algorithms** for **autonomous vehicles using image data**, with research published in **international conferences**.
 - **C++**: Proficient in **hardware-software integration**, enabling **efficient real-time robotic control and embedded system development**.
@@ -68,7 +68,7 @@ These controllers ensure **adaptive and efficient decision-making** in **uncerta
 - **SLAM (Simultaneous Localization and Mapping)**: Implemented SLAM techniques for **navigation and mapping of differential drive and wheeled robots** in **ROS2 environments**.
 - **Gazebo**: Designed and simulated **complex robotic environments** to support **navigation, perception, and autonomous behavior** in **ROS2**.
 - **Computer Vision**: Applied **OpenCV, YOLO, and deep learning-based object detection** for **autonomous navigation, perception, and environment understanding** in **robotics and autonomous vehicles**.
-  
+  -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -124,14 +124,14 @@ These controllers ensure **adaptive and efficient decision-making** in **uncerta
         </div>
 
         <div class="skill">
-            <div class="skill-title">MATLAB</div>
+            <div class="skill-title">MATLABSimulink</div>
             <div class="progress-bar">
                 <div class="progress matlab"></div>
             </div>
         </div>
 
         <div class="skill">
-            <div class="skill-title">ROS2 and Robatics</div>
+            <div class="skill-title"> Robatics:ROS2, Gazebo, MoveIt, Nav2, Linux </div>
             <div class="progress-bar">
                 <div class="progress ros2"></div>
             </div>
@@ -165,7 +165,4 @@ These controllers ensure **adaptive and efficient decision-making** in **uncerta
 </body>
 </html>
 
----
 
-## **Future Research Directions**
-I am eager to continue advancing research in **intelligent control systems, ground, aerial, and marine autonomy, and robotics**, exploring **new partnerships and innovations** in this dynamic field.
