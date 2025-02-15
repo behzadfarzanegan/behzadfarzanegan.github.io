@@ -74,10 +74,8 @@ collection: publications
     <td style="border: none; padding: 10px;">
         <strong>Bumperbot: ROS2-Based Mobile Robot Control & Estimation</strong>  
         <br>
-        This project focuses on the development and simulation of a mobile robot (Bumperbot) using ROS2, integrating motion control, sensor fusion, and state estimation. The robot’s dynamics and hardware configuration were defined using URDF, and the <code>ros2_control</code> plugin was implemented for real-time actuation. Simulation was conducted in Gazebo, providing a realistic environment for testing. 
-
-        The robot is controlled via a joystick, interfaced with ROS2 for seamless manual operation. For autonomous capabilities, an IMU and wheel encoders were utilized, with an Extended Kalman Filter (EKF) fusing sensor data for accurate state estimation. This allowed for precise localization and motion control. 
-
+        This project focuses on the development and simulation of a mobile robot (Bumperbot) using ROS2, integrating motion control, sensor fusion, and state estimation. The robot’s dynamics and hardware configuration were defined using URDF, and the <code>ros2_control</code>     plugin was implemented for real-time actuation. Simulation was conducted in Gazebo, providing a realistic environment for testing. 
+         The robot is controlled via a joystick, interfaced with ROS2 for seamless manual operation. For autonomous capabilities, an IMU and wheel encoders were utilized, with an Extended Kalman Filter (EKF) fusing sensor data for accurate state estimation. This allowed for precise             localization and motion control. 
         <br><br>
         <strong>Key Features:</strong>
         <ul>
