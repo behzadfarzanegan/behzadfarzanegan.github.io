@@ -63,6 +63,7 @@ collection: publications
     </video>
 </div>
 ---
+
 <!-- bumperbot ========================================================================================== -->
 <table style="border-collapse: collapse; border: none; width: 100%;">
 <tr style="border: none;">
