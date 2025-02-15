@@ -72,21 +72,32 @@ collection: publications
         </div>
     </td>
     <td style="border: none; padding: 10px;">
-        <strong>QCar Control and Estimation Framework</strong>  
+        <strong>Bumperbot: ROS2-Based Mobile Robot Control & Estimation</strong>  
         <br>
-        This project implements a control and estimation framework for a QCar system, leveraging sensor fusion techniques with Kalman Filters (KF) and Extended Kalman Filters (EKF). The system integrates data from gyroscopes, GPS, and motor tachometers to estimate the state of the vehicle, including position, heading angle, and sensor biases. To ensure precise motion control, the system employs a Proportional-Integral-Derivative (PID) controller. The PID controller regulates vehicle speed and 
-        steering angle by dynamically adjusting control inputs based on real-time state estimates. 
+        This project focuses on the development and simulation of a mobile robot (Bumperbot) using ROS2, integrating motion control, sensor fusion, and state estimation. The robot’s dynamics and hardware configuration were defined using URDF, and the <code>ros2_control</code> plugin was implemented for real-time actuation. Simulation was conducted in Gazebo, providing a realistic environment for testing. 
+
+        The robot is controlled via a joystick, interfaced with ROS2 for seamless manual operation. For autonomous capabilities, an IMU and wheel encoders were utilized, with an Extended Kalman Filter (EKF) fusing sensor data for accurate state estimation. This allowed for precise localization and motion control. 
+
+        <br><br>
+        <strong>Key Features:</strong>
+        <ul>
+            <li>URDF-based robot modeling and integration with <code>ros2_control</code></li>
+            <li>Simulation and validation in Gazebo</li>
+            <li>Joystick-based teleoperation using ROS2 interfaces</li>
+            <li>IMU and wheel encoder fusion with EKF for state estimation</li>
+            <li>Real-time sensor data processing and motion control</li>
+        </ul>
     </td>
 </tr>
 </table>
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-top: 20px; gap: 10px;">
-    <video style="width: 45%; height: auto;" controls>
-        <source src="/images/Qcar.webm" type="video/webm">
+<div style="text-align: center; margin-top: 20px;">
+    <video width="500" controls>
+        <source src="/images/bumperbot.MP4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-    <img src="/images/EKF.png" alt="EKF" style="width: 45%; height: auto;">
 </div>
+
 
 
 ---
