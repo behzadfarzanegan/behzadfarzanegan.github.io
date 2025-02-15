@@ -91,7 +91,7 @@ collection: publications
 </table>
 
 <div style="text-align: center; margin-top: 20px;">
-    <video width="500" controls>
+    <video width="500" controls poster="/images/bumperbot_preview.png">
         <source src="/images/bumperbot.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
