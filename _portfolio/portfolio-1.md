@@ -91,7 +91,7 @@ collection: publications
 
 <div style="text-align: center; margin-top: 20px;">
     <video width="500" controls>
-        <source src="/images/bumperbot.MP4" type="video/mp4">
+        <source src="/images/bumperbot.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
