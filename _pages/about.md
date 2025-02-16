@@ -6,8 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="width: 100%; height: auto; background: url('/images/background2.png') center center / cover no-repeat; background-size: cover;">
+<div style="width: 100%; height: auto; background: url('/images/background2.png') center center / cover no-repeat; padding: 20px;">
+    <p style="color: white; font-size: 18px;">Your content goes here...</p>
 </div>
+
 
 
 
