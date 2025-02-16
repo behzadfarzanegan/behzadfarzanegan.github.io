@@ -11,7 +11,7 @@ collection: publications
 <tr style="border: none;">
     <td width= "25%" style="border: none; text-align: center;">
         <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
-            <img src="/images/Qcar.jpg" width= "25%" style="border-radius: 15px;">
+            <img src="/images/Qcar.jpg" style="max-width: 100%; height: auto;"border-radius: 15px;">
         </div>
     </td>
     <td style="border: none; padding: 10px;">
