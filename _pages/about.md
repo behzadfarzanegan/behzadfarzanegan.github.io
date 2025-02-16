@@ -6,9 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="width: 100%; height: auto; background: url('/images/background2.png')">
-</div>
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px; flex-wrap: nowrap; max-width: 80vw;">
+    <img src="/images/background2.png" alt="about me" style="width: 100%; height: auto;">
+</div>
 
 
 
