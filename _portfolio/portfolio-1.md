@@ -36,9 +36,9 @@ collection: publications
 <!-- Qdrone ========================================================================================== -->
 <table style="border-collapse: collapse; border: none; width: 100%;">
 <tr style="border: none;">
-    <td width="250" style="border: none; text-align: center;">
+    <td width="25%" style="border: none; text-align: center;">
         <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
-            <img src="/images/uav.png" width="250" style="border-radius: 15px;">
+            <img src="/images/uav.png" style="max-width: 100%; height: auto; border-radius: 15px;">
         </div>
     </td>
     <td style="border: none; padding: 10px;">
@@ -57,7 +57,7 @@ collection: publications
 </table>
 
 <div style="text-align: center; margin-top: 20px;">
-    <video width="500" controls>
+    <video width="50%" controls>
         <source src="/images/qdrone.MP4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
@@ -68,9 +68,9 @@ collection: publications
 <!-- bumperbot ========================================================================================== -->
 <table style="border-collapse: collapse; border: none; width: 100%;">
 <tr style="border: none;">
-    <td width="250" style="border: none; text-align: center;">
+    <td width="25%" style="border: none; text-align: center;">
         <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
-            <img src="/images/bumperbot.png" width="250" style="border-radius: 15px;">
+            <img src="/images/bumperbot.png" style="max-width: 100%; height: auto; border-radius: 15px;">
         </div>
     </td>
     <td style="border: none; padding: 10px;">
@@ -92,7 +92,7 @@ collection: publications
 </table>
 
 <div style="text-align: center; margin-top: 20px;">
-    <video width="500" controls poster="/images/bumperbot_preview.png">
+    <video width="50%" controls poster="/images/bumperbot_preview.png">
         <source src="/images/bumperbot.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
@@ -106,9 +106,9 @@ collection: publications
 
 <table style="border-collapse: collapse; border: none; width: 100%;">
 <tr style="border: none;">
-<td width="250" style="border: none; text-align: center;">
+<td width="25%" style="border: none; text-align: center;">
     <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
-        <img src="/images/AUV.png" width="250" style="border-radius: 15px;">
+        <img src="/images/AUV.png" style="max-width: 100%; height: auto; border-radius: 15px;">
     </div>
 </td>
 <td style="border: none; padding: 10px;">
@@ -120,7 +120,7 @@ collection: publications
 </table>
 
 <div style="text-align: center; margin-top: 20px;">
-    <video width="600" controls>
+    <video width="60%" controls>
         <source src="/images/AUV.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
@@ -133,9 +133,9 @@ collection: publications
 <!-- USV ========================================================================================== -->
 <table style="border-collapse: collapse; border: none; width: 100%;">
 <tr style="border: none;">
-<td width="250" style="border: none; text-align: center;">
+<td width="25%" style="border: none; text-align: center;">
     <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
-        <img src="/images/USV.png" width="250" style="border-radius: 15px;">
+        <img src="/images/USV.png" style="max-width: 100%; height: auto; border-radius: 15px;">
     </div>
 </td>
 <td style="border: none; padding: 10px;">
@@ -147,7 +147,7 @@ Developed an Explainable safety-aware deep reinforcement learning (DRL)-based co
 </table>
 
 <div style="text-align: center; margin-top: 20px;">
-    <video width="600" controls>
+    <video width="60%" controls>
         <source src="/images/USV.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
