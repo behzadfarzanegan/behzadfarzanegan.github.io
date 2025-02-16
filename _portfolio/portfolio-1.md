@@ -120,7 +120,7 @@ collection: publications
 </table>
 
 <div style="text-align: center; margin-top: 20px;">
-    <video style="max-width: 100%; height: auto;" controls>
+    <video width="600" controls>
         <source src="/images/AUV.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
