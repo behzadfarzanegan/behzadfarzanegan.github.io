@@ -45,7 +45,7 @@ collection: publications
         <strong>Multi-Layer Neural Network-Based Optimal Adaptive Tracking Control of Unmanned Aerial Vehicles</strong>  
         <br>
         We propose a novel deep reinforcement learning-based optimal adaptive tracking control framework for 
-        nonlinear discrete-time UAV systems with partially uncertain dynamics>. The approach employs an 
+        nonlinear discrete-time UAV systems with partially uncertain dynamics. The approach employs an 
         actor-critic multilayer neural network (MNN) to approximate the value function and optimize the UAV control policy.  
         A hybrid learning scheme is introduced, where the critic MNN weights are updated in real-time at each sampling instant 
         and refined iteratively between instants to accelerate convergence.  
