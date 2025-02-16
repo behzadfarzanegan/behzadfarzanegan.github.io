@@ -148,7 +148,7 @@ Developed an Explainable safety-aware deep reinforcement learning (DRL)-based co
 
 <div style="text-align: center; margin-top: 20px;">
     <video width="600" controls>
-        <source src="/images/USV.webm" type="video/webm">
+        <source src="/images/USV.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
