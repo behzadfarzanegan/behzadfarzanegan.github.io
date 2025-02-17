@@ -96,7 +96,7 @@ collection: publications
         <source src="/images/bumperbot.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-    <video width="50%" controls poster="/images/bumperbot_preview.png">
+    <video width="50%" controls>
         <source src="/images/bumperbot_control.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
