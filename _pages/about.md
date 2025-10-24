@@ -16,9 +16,11 @@ redirect_from:
 
 # About Me
 
-I am currently a Ph.D. candidate at [Missouri University of Science and Technology (MST)](https://www.mst.edu/) in the Department of Electrical & Computer Engineering, under the guidance of [Dr. Sarangapani](https://ece.mst.edu/people/faculty-directory/jagannathan-sarangapani/).  
+I am an Embedded Control Software Engineer at Caterpillar Inc., where I develop advanced control and predictive maintenance systems for mining site operations. Previously, I completed my Ph.D. in Electrical & Computer Engineering at [Missouri University of Science and Technology (MST)](https://www.mst.edu/) under the guidance of [Dr. Sarangapani](https://ece.mst.edu/people/faculty-directory/jagannathan-sarangapani/).
 
-My research focuses on reinforcement learning-based optimal tracking control for nonlinear discrete-time systems, with applications in robotics and autonomous vehicles. A significant aspect of my work is lifelong learning-based optimal controllers, where the controller continuously learns from past experiences to enhance future performance. I also emphasize safety-aware and explainable AI, ensuring the reliability and interpretability of autonomous decision-making systems.  
+My doctoral research focused on reinforcement learning-based optimal tracking control for nonlinear discrete-time systems, particularly for robotics and autonomous vehicles. A significant aspect of my work involved lifelong learning-based optimal controllers, enabling continuous improvement from past experiences. I also emphasized safety-aware and explainable AI to ensure the reliability and interpretability of autonomous decision-making systems.
+
+At Caterpillar, I design and deploy MATLAB/Simulink Energy Management Systems (EMS) for mining operations, leveraging AI/ML techniques (including LSTM and CNN models) for load forecasting, fault detection, and image-based defect detection. My work integrates embedded software development, model-based design, and advanced analytics to enhance operational efficiency and predictive maintenance.
 
 Beyond my core research, I explore machine learning applications in cyber-physical systems, including:
 - **Vision-based robotic manipulation and localization**
