@@ -164,6 +164,28 @@ Developed an Explainable safety-aware deep reinforcement learning (DRL)-based co
 
 ---
 
+<!-- DDPG ========================================================================================== -->
+<table style="border-collapse: collapse; border: none; width: 100%;">
+<tr style="border: none;">
+<td width="25%" style="border: none; text-align: center;">
+    <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
+        <img src="/images/DDPG_Pendulum.png" style="max-width: 100%; height: auto; border-radius: 15px;">
+    </div>
+</td>
+<td style="border: none; padding: 10px;">
+    <strong>Deep Deterministic Policy Gradient (DDPG) for Continuous Control</strong>  
+    <br>
+    Implemented a robust DDPG framework using TensorFlow and the Keras Functional API to solve continuous control benchmarks (Gymnasium Pendulum-v1). The architecture utilizes a model-free Actor-Critic approach with Ornstein-Uhlenbeck (OU) process noise to optimize exploration in physical tasks with inertia. System stability is achieved through an optimized Experience Replay buffer for off-policy learning and Polyak averaging (soft updates) for target network synchronization, ensuring convergence in high-dimensional continuous action spaces.
+</td>
+</tr>
+</table>
+
+<div style="text-align: center; margin-top: 20px;">
+    <video width="50%" controls>
+        <source src="/images/DDPG_Demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
 
 
 
