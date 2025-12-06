@@ -107,7 +107,7 @@ collection: publications
 <tr style="border: none;">
     <td width="25%" style="border: none; text-align: center; vertical-align: top;">
         <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
-            <img src="/images/path_planning_thumbnail.png" style="max-width: 100%; height: auto; border-radius: 15px;">
+            <img src="/images/bumperbot.png" style="max-width: 100%; height: auto; border-radius: 15px;">
         </div>
     </td>
     <td style="border: none; padding: 10px; vertical-align: top;">
