@@ -101,7 +101,44 @@ collection: publications
         Your browser does not support the video tag.
     </video>
 </div>
+<!-- bumperbot 2========================================================================================== -->
 
+<table style="border-collapse: collapse; border: none; width: 100%; margin-top: 30px;">
+<tr style="border: none;">
+    <td width="25%" style="border: none; text-align: center; vertical-align: top;">
+        <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
+            <img src="/images/path_planning_thumbnail.png" style="max-width: 100%; height: auto; border-radius: 15px;">
+        </div>
+    </td>
+    <td style="border: none; padding: 10px; vertical-align: top;">
+        <strong>Custom ROS 2 Global Planners (C++ Implementation)</strong>  
+        <br>
+        This project focuses on the algorithmic core of autonomous navigation. Rather than relying on pre-built packages, I implemented <strong>Dijkstra</strong> and <strong>A* (A-Star)</strong> path planning algorithms from scratch in C++. These planners operate as standalone ROS 2 nodes, subscribing to <code>/map</code> and <code>/goal_pose</code> to calculate optimal trajectories in real-time.
+        <br><br>
+        The implementation handles raw <code>OccupancyGrid</code> data, transforming world coordinates to grid indices to build a graph representation of the environment. I utilized standard C++ optimization techniques (priority queues, custom comparators) to ensure efficient pathfinding. The nodes also publish visualization data, allowing for real-time debugging of the search frontier (visited nodes) versus the final calculated path in RViz.
+        <br><br>
+        <strong>Key Technical Implementations:</strong>
+        <ul>
+            <li><strong>Algorithm Design:</strong> Custom C++ implementation of Dijkstra (Uniform Cost Search) and A* (Heuristic Search).</li>
+            <li><strong>Data Structures:</strong> Efficient management of Open/Closed lists using <code>std::priority_queue</code> and flattened 1D vectors for O(1) access.</li>
+            <li><strong>ROS 2 Integration:</strong> Seamless handling of coordinate transforms (TF2) and message types (<code>PoseStamped</code>, <code>Path</code>).</li>
+            <li><strong>Robustness:</strong> Implemented safety checks for start/goal bounds and obstacle collision detection before planning.</li>
+        </ul>
+    </td>
+</tr>
+</table>
+
+<div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
+    <video width="45%" controls poster="/images/dijkstra_preview.png">
+        <source src="/images/Planner.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <video width="45%" controls poster="/images/astar_preview.png">
+        <source src="/images/astar_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <p style="font-style: italic; font-size: 0.9em;">Left: Dijkstra Expansion | Right: A* Optimization</p>
+</div>
 
 
 ---
