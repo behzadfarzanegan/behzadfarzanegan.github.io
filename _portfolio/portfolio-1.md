@@ -117,13 +117,6 @@ collection: publications
         <br><br>
         The implementation handles raw <code>OccupancyGrid</code> data, transforming world coordinates to grid indices to build a graph representation of the environment. I utilized standard C++ optimization techniques (priority queues, custom comparators) to ensure efficient pathfinding. The nodes also publish visualization data, allowing for real-time debugging of the search frontier (visited nodes) versus the final calculated path in RViz.
         <br><br>
-        <strong>Key Technical Implementations:</strong>
-        <ul>
-            <li><strong>Algorithm Design:</strong> Custom C++ implementation of Dijkstra (Uniform Cost Search) and A* (Heuristic Search).</li>
-            <li><strong>Data Structures:</strong> Efficient management of Open/Closed lists using <code>std::priority_queue</code> and flattened 1D vectors for O(1) access.</li>
-            <li><strong>ROS 2 Integration:</strong> Seamless handling of coordinate transforms (TF2) and message types (<code>PoseStamped</code>, <code>Path</code>).</li>
-            <li><strong>Robustness:</strong> Implemented safety checks for start/goal bounds and obstacle collision detection before planning.</li>
-        </ul>
     </td>
 </tr>
 </table>
