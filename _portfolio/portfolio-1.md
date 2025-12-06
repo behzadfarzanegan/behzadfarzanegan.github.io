@@ -70,7 +70,7 @@ collection: publications
 <tr style="border: none;">
     <td width="25%" style="border: none; text-align: center;">
         <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
-            <img src="/images/bumperbot.png" style="max-width: 100%; height: auto; border-radius: 15px;">
+            <img src="/images/bumperbot2" style="max-width: 100%; height: auto; border-radius: 15px;">
         </div>
     </td>
     <td style="border: none; padding: 10px;">
@@ -129,15 +129,10 @@ collection: publications
 </table>
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
-    <video width="45%" controls poster="/images/dijkstra_preview.png">
+    <video width="50%" controls poster="/images/dijkstra_preview.png">
         <source src="/images/Planner.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-    <video width="45%" controls poster="/images/astar_preview.png">
-        <source src="/images/astar_demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-    <p style="font-style: italic; font-size: 0.9em;">Left: Dijkstra Expansion | Right: A* Optimization</p>
 </div>
 
 
