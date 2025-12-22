@@ -13,20 +13,7 @@ citation: ''
 
 **Journal Papers**
 <table>
-<tr>
-<td width="150">
-    <img src="/images/USV.png" width="150">
-</td>
-<td>
-    <strong>Multi-Model Safe Neuro-Optimal Output Tracking Control of Autonomous Surface Vessels with Explainable AI</strong>  
-    <br>
-    <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani  
-    <br>
-    <em>2025 IEEE Conference on Control Technology and Applications (CCTA)</em>  
-    <br>
-    <a href="https://ieeexplore.ieee.org/abstract/document/11151388">📄 Paper</a>
-</td>
-</tr>
+
 <!--                                        -->
 
 <tr>
@@ -209,6 +196,22 @@ citation: ''
 **Conference Papers**
 
 <table>
+
+    <tr>
+<td width="150">
+    <img src="/images/USV.png" width="150">
+</td>
+<td>
+    <strong>Multi-Model Safe Neuro-Optimal Output Tracking Control of Autonomous Surface Vessels with Explainable AI</strong>  
+    <br>
+    <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani  
+    <br>
+    <em>2025 IEEE Conference on Control Technology and Applications (CCTA)</em>  
+    <br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11151388">📄 Paper</a>
+</td>
+</tr>
+
 <tr>
 <td width="150">
     <img src="/images/AUV 6dof.png" width="150">
