@@ -149,7 +149,7 @@ collection: publications
             <li><strong>PD Controller:</strong> A proportional-derivative controller for smooth heading and position error correction, ensuring stable convergence to the path.</li>
             <li><strong>Pure Pursuit:</strong> A geometric approach that selects a dynamic look-ahead point on the path and computes steering commands for efficient path following.</li>
         </ul>
-        Both controllers operate as ROS 2 nodes, subscribing to the planned path and robot state, and publishing velocity commands for execution. The system processes raw <code>OccupancyGrid</code> data, converts world coordinates to grid indices, and publishes visualization markers for real-time debugging in RViz, including the global path and local tracking behavior.
+
         <br><br>
     </td>
 </tr>
