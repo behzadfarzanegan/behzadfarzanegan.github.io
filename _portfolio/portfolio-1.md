@@ -112,7 +112,7 @@ collection: publications
         </div>
     </td>
     <td style="border: none; padding: 10px; vertical-align: top;">
-        <strong>Custom ROS 2 Global Planners (C++ Implementation)</strong>  
+        <strong> ROS 2 Global Planners (C++ Implementation)</strong>  
         <br>
         This project focuses on the algorithmic core of autonomous navigation. Rather than relying on pre-built packages, I implemented <strong>Dijkstra</strong> and <strong>A* (A-Star)</strong> path planning algorithms from scratch in C++. These planners operate as standalone ROS 2 nodes, subscribing to <code>/map</code> and <code>/goal_pose</code> to calculate optimal trajectories in real-time.
         <br><br>
@@ -138,9 +138,9 @@ collection: publications
 <tr style="border: none;">
     <td width="25%" style="border: none; text-align: center; vertical-align: top;">
         <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
-            <img src="/images/bumperbot.png" style   </td>
+            <img src="/images/bumperbot3.png" style   </td>
     <td style="border: none; padding: 10px; vertical-align: top;">
-        <strong>Custom ROS 2 Motion Planning Framework (C++ Implementation)</strong>  
+        <strong> ROS 2 Motion Planning Framework (C++ Implementation)</strong>  
         <br>
         This project implements a complete navigation pipeline, starting with global path planning and followed by local motion control. The global planner uses the <strong>A*</strong> algorithm, developed from scratch in C++, to compute an optimal path on an occupancy grid map. The planner runs as a ROS 2 node, subscribing to <code>/map</code> and <code>/goal_pose</code> topics to generate collision-free paths in real time.
         <br><br>
