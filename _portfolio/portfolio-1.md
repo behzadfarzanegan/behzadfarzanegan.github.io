@@ -156,12 +156,12 @@ collection: publications
 </table>
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
-    <video width="50%" controls poster="/images/pure_pursuit.png">
+    <video width="45%" controls poster="/images/pure_pursuit.png">
         <source src="/images/pure_pursuit.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 
-    <video width="50%" controls poster="/images/Motion_PD.png">
+    <video width="45%" controls poster="/images/Motion_PD.png">
         <source src="/images/Motion_PD.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
