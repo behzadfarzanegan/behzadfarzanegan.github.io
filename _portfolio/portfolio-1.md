@@ -64,7 +64,6 @@ collection: publications
 </div>
 
 ---
-
 <!-- bumperbot ========================================================================================== -->
 <table style="border-collapse: collapse; border: none; width: 100%;">
 <tr style="border: none;">
@@ -128,9 +127,10 @@ collection: publications
         Your browser does not support the video tag.
     </video>
 </div>
-
-
 ---
+
+<!-- bumperbot 3========================================================================================== -->
+
 
 <!-- bumperbot 3========================================================================================== -->
 
@@ -138,9 +138,8 @@ collection: publications
     <tr style="border: none;">
         <td width="25%" style="border: none; text-align: center; vertical-align: top;">
             <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
-                <img src="/images/bumperbot3.png" style   </td>
-        <td style="border: none; padding: 10px; vertical-align: top;">
-            <strong> ROS 2 Motion Planning Framework (C++ Implementation)</strong>  
+                <img src="/images/bumperbot3.png" alt="BumperBot Motion Planning" style="max-width: 100%; height: 10px; vertical-align: top;">
+            <strong>ROS 2 Motion Planning Framework (C++ Implementation)</strong>  
             <br>
             This project implements a complete navigation pipeline, starting with global path planning and followed by local motion control. The global planner uses the <strong>A*</strong> algorithm, developed from scratch in C++, to compute an optimal path on an occupancy grid map. The planner runs as a ROS 2 node, subscribing to <code>/map</code> and <code>/goal_pose</code> topics to generate collision-free paths in real time.
             <br><br>
@@ -154,15 +153,16 @@ collection: publications
 </table>
             
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
-    <video width="45%" controls poster="/images/pure_pursuit.png">
-        <source src="/images/pure_pursuit.mp4" type="video/mp4">
-        Your browser does not support the video tag.
+    <video width="45%" style="display:inline-block; margin:0 10px;" controls poster="/images/pure_pursuit.png">
+        <source src="/images/pure        Your browser does not support the video tag.
     </video>
-    <video width="45%" controls poster="/images/Motion_PD.png">
-        <source src="/images/Motion_PD.mp4" type="video/mp4">
+    <video width="45%" style="display:inline-block; margin:0 10px;" controls poster="/images/Motion_PD.png">
+        /images/Motion_PD.mp4
         Your browser does not support the video tag.
     </video>
 </div>
+
+
 ---
 <!-- AUV ========================================================================================== -->
 
