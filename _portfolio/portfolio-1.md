@@ -101,6 +101,7 @@ collection: publications
         Your browser does not support the video tag.
     </video>
 </div>
+---
 <!-- bumperbot 2========================================================================================== -->
 
 <table style="border-collapse: collapse; border: none; width: 100%; margin-top: 30px;">
@@ -131,7 +132,6 @@ collection: publications
 
 ---
 
-
 <!-- bumperbot 3========================================================================================== -->
 
 <table style="border-collapse: collapse; border: none; width: 100%; margin-top: 30px;">
@@ -160,12 +160,10 @@ collection: publications
         <source src="/images/pure_pursuit.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-
     <video width="45%" controls poster="/images/Motion_PD.png">
         <source src="/images/Motion_PD.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-    
 </div>
 
 
