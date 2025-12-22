@@ -135,24 +135,24 @@ collection: publications
 <!-- bumperbot 3========================================================================================== -->
 
 <table style="border-collapse: collapse; border: none; width: 100%; margin-top: 30px;">
-<tr style="border: none;">
-    <td width="25%" style="border: none; text-align: center; vertical-align: top;">
-        <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
-            <img src="/images/bumperbot3.png" style   </td>
-    <td style="border: none; padding: 10px; vertical-align: top;">
-        <strong> ROS 2 Motion Planning Framework (C++ Implementation)</strong>  
-        <br>
-        This project implements a complete navigation pipeline, starting with global path planning and followed by local motion control. The global planner uses the <strong>A*</strong> algorithm, developed from scratch in C++, to compute an optimal path on an occupancy grid map. The planner runs as a ROS 2 node, subscribing to <code>/map</code> and <code>/goal_pose</code> topics to generate collision-free paths in real time.
-        <br><br>
-        After generating the global path, two different motion planning strategies were implemented for trajectory tracking:
-        <ul>
-            <li><strong>PD Controller:</strong> A proportional-derivative controller for smooth heading and position error correction, ensuring stable convergence to the path.</li>
-            <li><strong>Pure Pursuit:</strong> A geometric approach that selects a dynamic look-ahead point on the path and computes steering commands for efficient path following.</li>
-        </ul>
-    </td>
-</tr>
+    <tr style="border: none;">
+        <td width="25%" style="border: none; text-align: center; vertical-align: top;">
+            <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
+                <img src="/images/bumperbot3.png" style   </td>
+        <td style="border: none; padding: 10px; vertical-align: top;">
+            <strong> ROS 2 Motion Planning Framework (C++ Implementation)</strong>  
+            <br>
+            This project implements a complete navigation pipeline, starting with global path planning and followed by local motion control. The global planner uses the <strong>A*</strong> algorithm, developed from scratch in C++, to compute an optimal path on an occupancy grid map. The planner runs as a ROS 2 node, subscribing to <code>/map</code> and <code>/goal_pose</code> topics to generate collision-free paths in real time.
+            <br><br>
+            After generating the global path, two different motion planning strategies were implemented for trajectory tracking:
+            <ul>
+                <li><strong>PD Controller:</strong> A proportional-derivative controller for smooth heading and position error correction, ensuring stable convergence to the path.</li>
+                <li><strong>Pure Pursuit:</strong> A geometric approach that selects a dynamic look-ahead point on the path and computes steering commands for efficient path following.</li>
+            </ul>
+        </td>
+    </tr>
 </table>
-
+            
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
     <video width="45%" controls poster="/images/pure_pursuit.png">
         <source src="/images/pure_pursuit.mp4" type="video/mp4">
@@ -163,8 +163,6 @@ collection: publications
         Your browser does not support the video tag.
     </video>
 </div>
-
-
 ---
 <!-- AUV ========================================================================================== -->
 
