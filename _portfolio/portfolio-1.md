@@ -136,9 +136,11 @@ collection: publications
 
 <table style="border-collapse: collapse; border: none; width: 100%; margin-top: 30px;">
     <tr style="border: none;">
-        <td width="25%" style="border: none; text-align: center; vertical-align: top;">
+        <td width="25%" style="border: none; text-align: center;">
             <div style="border: 2px solid black; border-radius: 15px; padding: 10px; display: inline-block;">
-                <img src="/images/bumperbot3.png" alt="BumperBot Motion Planning" style="max-width: 100%; height: 10px; vertical-align: top;">
+                <img src="/images/bumperbot3.png" style="max-width: 100%; height: auto; border-radius: 15px;">
+            </div>
+        </td>
             <strong>ROS 2 Motion Planning Framework (C++ Implementation)</strong>  
             <br>
             This project implements a complete navigation pipeline, starting with global path planning and followed by local motion control. The global planner uses the <strong>A*</strong> algorithm, developed from scratch in C++, to compute an optimal path on an occupancy grid map. The planner runs as a ROS 2 node, subscribing to <code>/map</code> and <code>/goal_pose</code> topics to generate collision-free paths in real time.
