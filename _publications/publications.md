@@ -23,7 +23,7 @@ citation: ''
     <br>
     <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani  
     <br>
-    <em>IEEE Transactions on Automation Science and Engineering, 2025 (Revised)</em>  
+    <em>IEEE Transactions on Automation Science and Engineering, 2025 (Published)</em>  
     <br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10938298">📄 Paper</a>
 </td>
@@ -203,7 +203,7 @@ citation: ''
         <br>
         <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani  
         <br>
-        <em>2025 IEEE Conference on Control Technology and Applications (CCTA)</em>  
+        <em>IEEE Conference on Control Technology and Applications (CCTA), 2025 (Published)</em>  
         <br>
         <a href="https://ieeexplore.ieee.org/abstract/document/11151388">📄 Paper</a>
     </td>
