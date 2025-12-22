@@ -149,7 +149,6 @@ collection: publications
             <li><strong>PD Controller:</strong> A proportional-derivative controller for smooth heading and position error correction, ensuring stable convergence to the path.</li>
             <li><strong>Pure Pursuit:</strong> A geometric approach that selects a dynamic look-ahead point on the path and computes steering commands for efficient path following.</li>
         </ul>
-        <br><br>
     </td>
 </tr>
 </table>
