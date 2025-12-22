@@ -18,13 +18,13 @@ citation: ''
     <img src="/images/USV.png" width="150">
 </td>
 <td>
-    <strong>Multi-Model Safety Aware Deep Reinforcement Learning-based Output Feedback Control of Autonomous Surface Vessels</strong>  
+    <strong>Multi-Model Safe Neuro-Optimal Output Tracking Control of Autonomous Surface Vessels with Explainable AI</strong>  
     <br>
     <strong>Behzad Farzanegan</strong>, Jagannathan Sarangapani  
     <br>
-    <em>IEEE Journal of Oceanic Engineering, 2025 (in review)</em>  
+    <em>2025 IEEE Conference on Control Technology and Applications (CCTA)</em>  
     <br>
-    <a href="#">📄 Paper</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11151388">📄 Paper</a>
 </td>
 </tr>
 <!--                                        -->
@@ -40,7 +40,7 @@ citation: ''
     <br>
     <em>IEEE Transactions on Automation Science and Engineering, 2025 (Revised)</em>  
     <br>
-    <a href="#">📄 Paper</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10938298">📄 Paper</a>
 </td>
 </tr>
 <!--                                        -->
