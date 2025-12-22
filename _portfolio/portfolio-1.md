@@ -100,6 +100,7 @@ collection: publications
         Your browser does not support the video tag.
     </video>
 </div>
+
 ---
 <!-- bumperbot 2========================================================================================== -->
 
@@ -127,11 +128,8 @@ collection: publications
         Your browser does not support the video tag.
     </video>
 </div>
+
 ---
-
-<!-- bumperbot 3========================================================================================== -->
-
-
 <!-- bumperbot 3========================================================================================== -->
 
 <table style="border-collapse: collapse; border: none; width: 100%; margin-top: 30px;">
