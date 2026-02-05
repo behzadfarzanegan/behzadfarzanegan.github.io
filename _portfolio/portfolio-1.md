@@ -155,10 +155,11 @@ collection: publications
            
 <div style="text-align: center; margin-top: 20px; margin-bottom: 40px;">
     <video width="45%" style="display:inline-block; margin:0 10px;" controls poster="/images/pure_pursuit.png">
-        <source src="/images/pure        Your browser does not support the video tag.
+        <source src="/images/pure_pursuit.mp4" type="video/mp4">   
+            Your browser does not support the video tag.
     </video>
     <video width="45%" style="display:inline-block; margin:0 10px;" controls poster="/images/Motion_PD.png">
-        /images/Motion_PD.mp4
+        <source src="/images/Motion_PD.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
